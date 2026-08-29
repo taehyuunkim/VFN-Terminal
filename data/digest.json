@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28T21:45:00-05:00",
+  "items": [
+    {
+      "time": "07:10",
+      "source": "Apollo — The Daily Spark",
+      "headline": "The market, not the Fed, now sets long rates",
+      "summary": "Apollo argues that since the 2022 hiking cycle, movements in the 10-year Treasury yield have increasingly been driven outside FOMC meeting days by inflation surprises, payroll data, Treasury supply and term premium rather than the meeting itself.",
+      "investment_takeaway": "For equity duration and credit underwriting, the long end may be less controllable by the Fed than the market often assumes. Treasury supply, nominal growth and term premium deserve more weight in discount-rate and refinancing-risk scenarios.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
+    },
+    {
+      "time": "08:15",
+      "source": "Axios AM",
+      "headline": "Nvidia's investment flywheel expands across the AI ecosystem",
+      "summary": "Axios highlights Nvidia's use of chip-generated cash flow to fund a broad network of AI investments and partnerships while hyperscalers and model developers simultaneously pursue custom silicon to reduce dependence on Nvidia.",
+      "investment_takeaway": "The near-term read-through is supportive for AI infrastructure demand, but the more important underwriting question is whether Nvidia's capital deployment reinforces ecosystem lock-in or subsidizes customers that eventually disintermediate it.",
+      "asset_classes": [
+        "Equity",
+        "Credit"
+      ],
+      "importance": "high",
+      "url": "https://www.axios.com/newsletters/axios-am-709c0f20-3279-4586-9151-d0110f2accb4"
+    },
+    {
+      "time": "09:05",
+      "source": "Reuters",
+      "headline": "U.S. equity funds post their largest weekly outflow since March",
+      "summary": "Investors pulled a net $22.33 billion from U.S. equity funds in the week through August 26 while bond funds recorded a nineteenth consecutive week of inflows.",
+      "investment_takeaway": "The rotation does not by itself call the equity tape, but it is useful positioning context: incremental flows are favoring duration and income even as equity indices remain close to highs. Watch whether large-cap outflows persist after the latest AI earnings cycle.",
+      "asset_classes": [
+        "Cross-Asset",
+        "Equity",
+        "Credit"
+      ],
+      "importance": "medium",
+      "url": "https://www.reuters.com/business/us-equity-funds-post-biggest-weekly-outflow-since-march-ahead-nvidia-earnings-fed-event-2026-08-28/"
+    },
+    {
+      "time": "10:20",
+      "source": "Reuters",
+      "headline": "Next macro hurdle shifts to jobs and Broadcom",
+      "summary": "Markets are approaching the August employment report and Broadcom earnings with the S&P 500 near its highs, putting labor-market resilience, wage pressure and AI infrastructure demand back at the center of the next risk window.",
+      "investment_takeaway": "For equities, payrolls can move both the growth and discount-rate legs of valuation simultaneously. For credit, labor weakness matters more through default expectations while stronger inflationary wage data can prolong refinancing pressure via higher yields.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Credit"
+      ],
+      "importance": "medium",
+      "url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-rally-2026-08-28/"
+    },
+    {
+      "time": "12:40",
+      "source": "The Guardian",
+      "headline": "Meta child-safety settlement raises the prospect of broader platform regulation",
+      "summary": "The Guardian reviews the implications of Meta's large U.S. child-safety settlement and the possibility that design restrictions, age controls and related litigation spread beyond the U.S.",
+      "investment_takeaway": "The relevant equity question is not only the cash settlement but whether product-level restrictions change engagement, ad inventory or compliance costs across social platforms. Regulatory remedies that affect algorithms matter more than one-time legal payments.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "medium",
+      "url": "https://www.theguardian.com/world/2026/aug/28/friday-briefing-could-metas-childsafety-settlement-open-the-door-to-global-reform"
+    }
+  ]
+}

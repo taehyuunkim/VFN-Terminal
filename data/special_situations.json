@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28T21:45:00-05:00",
+  "items": [
+    {
+      "time": "07:02",
+      "ticker": "PYPL",
+      "company": "PayPal Holdings",
+      "event_type": "M&A",
+      "status": "Cancelled",
+      "why_it_matters": "Reports said an Advent–Stripe consortium walked away from a potential acquisition. The failed-bid read-through is relevant to standalone valuation, strategic optionality and any event premium that had built into the shares.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/paypal-shares-fall-after-report-advent-stripe-consortium-abandons-takeover-2026-08-28/",
+      "signal": "NEW",
+      "next_step": "Re-underwrite standalone value and any event premium reversal."
+    },
+    {
+      "time": "08:11",
+      "ticker": "KMB / KVUE",
+      "company": "Kimberly-Clark / Kenvue",
+      "event_type": "M&A",
+      "status": "Live",
+      "why_it_matters": "Kimberly-Clark sought EU approval for its proposed acquisition of Kenvue. Regulatory milestones matter for deal timing, spread duration and the probability of remedies.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/kimberly-clark-seeks-eu-approval-40-billion-kenvue-deal-2026-08-28/",
+      "signal": "NEW",
+      "next_step": "Track the next regulatory, shareholder or closing milestone."
+    },
+    {
+      "time": "09:26",
+      "ticker": "SOLS / ESI",
+      "company": "Solstice Advanced Materials / Element Solutions",
+      "event_type": "M&A",
+      "status": "Cancelled",
+      "why_it_matters": "The companies terminated their merger after shareholder feedback, with no termination fee. Solstice also announced a $500 million repurchase, creating a clean break from the prior transaction thesis and a new capital-return catalyst.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/solstice-element-terminate-145-billion-merger-deal-2026-08-27/",
+      "signal": "NEW",
+      "next_step": "Re-underwrite standalone value and any event premium reversal."
+    },
+    {
+      "time": "11:05",
+      "ticker": "KRMN",
+      "company": "Karman Holdings",
+      "event_type": "M&A",
+      "status": "Closed",
+      "why_it_matters": "An 8-K disclosed the closing of the Walker Precision Engineering acquisition. The financing and acquired European missile-program exposure are now part of the pro forma capital structure and earnings base.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/edgar/search/",
+      "signal": "NEW",
+      "next_step": "Shift from deal-risk underwriting to pro forma earnings, leverage and integration."
+    },
+    {
+      "time": "13:42",
+      "ticker": "SLP",
+      "company": "Simulations Plus",
+      "event_type": "M&A",
+      "status": "Live",
+      "why_it_matters": "Shareholders approved the Altaris transaction, shifting the remaining deal risk toward regulatory approvals and closing mechanics rather than the shareholder vote.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/edgar/search/",
+      "signal": "NEW",
+      "next_step": "Track the next regulatory, shareholder or closing milestone."
+    },
+    {
+      "time": "15:18",
+      "ticker": "BOLD",
+      "company": "Boundless Bio",
+      "event_type": "Filing",
+      "status": "Live",
+      "why_it_matters": "A Form 425 disclosed an amendment to the Serapha merger agreement involving warrants and ownership mechanics. Small changes to consideration or cap-table terms can matter materially in micro-cap merger situations.",
+      "source": "SEC / Form 425",
+      "url": "https://www.sec.gov/edgar/search/",
+      "signal": "NEW",
+      "next_step": "Track the next regulatory, shareholder or closing milestone."
+    }
+  ]
+}

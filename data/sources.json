@@ -1,0 +1,162 @@
+{
+  "groups": [
+    {
+      "name": "Core Markets / Daily",
+      "sources": [
+        "Apollo \u2014 The Daily Spark",
+        "Axios \u2014 AM",
+        "Axios \u2014 Markets",
+        "Axios \u2014 Macro",
+        "Guardian \u2014 Business",
+        "Guardian \u2014 Technology",
+        "Guardian \u2014 World",
+        "BBC \u2014 Business",
+        "BBC \u2014 World",
+        "CNBC \u2014 Top News",
+        "CNBC \u2014 Markets",
+        "CNBC \u2014 Finance",
+        "CNBC \u2014 Earnings",
+        "CNBC \u2014 Technology",
+        "CNBC \u2014 Investing",
+        "NYT \u2014 Business",
+        "NYT \u2014 Technology",
+        "MarketWatch \u2014 Top Stories",
+        "MarketWatch \u2014 Markets",
+        "Yahoo Finance \u2014 Top Stories",
+        "NPR \u2014 Business",
+        "NPR \u2014 Economy",
+        "Fortune \u2014 Finance",
+        "Fortune \u2014 Markets",
+        "Financial Times \u2014 Markets public index",
+        "Financial Times \u2014 Companies public index"
+      ]
+    },
+    {
+      "name": "Macro / Central Banks / Data",
+      "sources": [
+        "Federal Reserve \u2014 Press Releases",
+        "Federal Reserve \u2014 Speeches",
+        "Federal Reserve \u2014 FOMC",
+        "New York Fed \u2014 Press Releases",
+        "U.S. Treasury \u2014 Press Releases",
+        "BLS \u2014 Latest Releases",
+        "BEA \u2014 News Releases",
+        "EIA \u2014 Today in Energy",
+        "EIA \u2014 Press Releases",
+        "ECB \u2014 Press Releases",
+        "ECB \u2014 Speeches",
+        "Bank of England \u2014 News",
+        "Bank of Japan \u2014 Releases",
+        "Bank of Canada \u2014 Press",
+        "RBA \u2014 Media Releases",
+        "BIS \u2014 Press Releases",
+        "IMF \u2014 News",
+        "World Bank \u2014 News",
+        "OECD \u2014 News",
+        "CBO \u2014 Publications / Budget Updates"
+      ]
+    },
+    {
+      "name": "Corporate / Press Wires",
+      "sources": [
+        "PR Newswire \u2014 General Business",
+        "PR Newswire \u2014 M&A / Takeovers",
+        "PR Newswire \u2014 Earnings",
+        "PR Newswire \u2014 Bankruptcy / Restructuring",
+        "GlobeNewswire \u2014 Corporate News",
+        "GlobeNewswire \u2014 M&A",
+        "GlobeNewswire \u2014 Earnings",
+        "Business Wire \u2014 Corporate News",
+        "Business Wire \u2014 M&A",
+        "Accesswire \u2014 Corporate News",
+        "Newsfile \u2014 Corporate News",
+        "Company IR / press releases discovered from SEC filings"
+      ]
+    },
+    {
+      "name": "SEC / Filings",
+      "sources": [
+        "8-K",
+        "6-K",
+        "425",
+        "S-4",
+        "F-4",
+        "DEFM14A",
+        "PREM14A",
+        "SC 13D",
+        "SC 13D/A",
+        "SC 13G",
+        "SC TO-T",
+        "SC TO-I",
+        "SC TO-C",
+        "13E-3",
+        "14D-9",
+        "10-Q",
+        "10-K",
+        "20-F",
+        "40-F",
+        "NT 10-Q",
+        "NT 10-K",
+        "8-A12B",
+        "Form 4",
+        "Form 3",
+        "Form 5"
+      ]
+    },
+    {
+      "name": "U.S. Regulators / Legal",
+      "sources": [
+        "SEC \u2014 Press Releases",
+        "SEC \u2014 Litigation Releases",
+        "SEC \u2014 Administrative Proceedings",
+        "FTC \u2014 Competition Press Releases",
+        "FTC \u2014 HSR Early Termination",
+        "DOJ Antitrust \u2014 Press Releases",
+        "DOJ Antitrust \u2014 Civil Case Filings",
+        "DOJ \u2014 Corporate Crime",
+        "CFTC \u2014 Press Releases",
+        "FINRA \u2014 News Releases",
+        "FDIC \u2014 Press Releases",
+        "OCC \u2014 News Releases",
+        "CFPB \u2014 Newsroom",
+        "FCC \u2014 News",
+        "FERC \u2014 News Releases",
+        "PCAOB \u2014 News"
+      ]
+    },
+    {
+      "name": "Global Deal / Competition Regulators",
+      "sources": [
+        "UK CMA \u2014 Merger Cases",
+        "UK CMA \u2014 Open Cases",
+        "UK CMA \u2014 Decisions",
+        "European Commission \u2014 Merger News",
+        "European Commission \u2014 Antitrust News",
+        "European Commission \u2014 State Aid News",
+        "Competition Bureau Canada \u2014 News",
+        "ACCC Australia \u2014 Media Releases",
+        "JFTC Japan \u2014 Press",
+        "Bundeskartellamt Germany \u2014 Press",
+        "Autorit\u00e9 de la concurrence France \u2014 News",
+        "CADE Brazil \u2014 News",
+        "SAMR China \u2014 Public merger decisions",
+        "KFTC Korea \u2014 Press Releases"
+      ]
+    },
+    {
+      "name": "Credit / Restructuring / Distress",
+      "sources": [
+        "SEC going-concern keyword screen",
+        "SEC covenant-default keyword screen",
+        "SEC Chapter 11 keyword screen",
+        "SEC exchange-offer keyword screen",
+        "PR Newswire restructuring screen",
+        "GlobeNewswire restructuring screen",
+        "U.S. Courts bankruptcy-news public pages",
+        "Fitch \u2014 Public rating actions",
+        "Moody's \u2014 Public rating actions",
+        "S&P Global Ratings \u2014 Public rating actions"
+      ]
+    }
+  ]
+}

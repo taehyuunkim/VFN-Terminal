@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="VFN Terminal — daily market intelligence and special situations tracker." />
+  <title>VFN Terminal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div class="terminal">
+  <header class="masthead">
+    <div class="mast-side left"><span class="live-dot"></span> PUBLIC FEED</div>
+    <h1>VFN Terminal</h1>
+    <div class="mast-side right" id="clock">--:--:-- CT</div>
+  </header>
+
+  <nav class="tabs" aria-label="Main navigation">
+    <button class="tab active" data-tab="digest"><span class="fn">F1</span><span id="digest-tab-title">Digest</span></button>
+    <button class="tab" data-tab="special"><span class="fn">F2</span>Special Situations Tracker</button>
+    <button class="tab" data-tab="about"><span class="fn">F3</span>About</button>
+  </nav>
+
+  <div class="command-strip">
+    <span class="cmd-label">VFN RESEARCH FEED</span>
+    <span><b id="source-count">—</b> SOURCES</span>
+    <span><b id="edgar-count">—</b> FILINGS</span>
+    <span><b id="reg-count">—</b> REGULATORY FEEDS</span>
+  </div>
+
+  <main>
+    <section id="panel-digest" class="panel active">
+      <div class="section-head">
+        <div>
+          <div class="kicker">DAILY MARKET INTELLIGENCE</div>
+          <h2 id="digest-heading">Digest</h2>
+          <div class="deck">What changed, why it matters, and what an equity or credit investor should carry into the day.</div>
+        </div>
+        <div class="section-meta">
+          <span id="digest-count">0 ITEMS</span>
+          <span id="digest-updated">UPDATED —</span>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <span class="toolbar-title">ASSET</span>
+        <button class="chip active" data-digest-filter="all">ALL</button>
+        <button class="chip" data-digest-filter="Equity">EQUITY</button>
+        <button class="chip" data-digest-filter="Credit">CREDIT</button>
+        <button class="chip" data-digest-filter="Macro">MACRO</button>
+        <button class="chip" data-digest-filter="Cross-Asset">CROSS-ASSET</button>
+        <span class="toolbar-spacer"></span>
+        <label class="searchbox"><span>SEARCH</span><input id="digest-search" autocomplete="off" /></label>
+      </div>
+
+      <div id="digest-list" class="digest-feed"></div>
+    </section>
+
+    <section id="panel-special" class="panel">
+      <div class="section-head">
+        <div>
+          <div class="kicker">EVENT-DRIVEN / CORPORATE ACTIONS</div>
+          <h2>Special Situations Tracker</h2>
+          <div class="deck">Transaction announcements, strategic alternatives, spin-offs, divestitures, activist signals, regulatory milestones and filing surprises.</div>
+        </div>
+        <div class="section-meta">
+          <span id="special-count">0 EVENTS</span>
+          <span id="special-updated">UPDATED —</span>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <span class="toolbar-title">EVENT</span>
+        <button class="chip active" data-special-filter="all">ALL</button>
+        <button class="chip" data-special-filter="M&A">M&A</button>
+        <button class="chip" data-special-filter="Strategic Review">STRATEGIC REVIEW</button>
+        <button class="chip" data-special-filter="Spin-off">SPIN-OFF</button>
+        <button class="chip" data-special-filter="Divestiture">DIVESTITURE</button>
+        <button class="chip" data-special-filter="Activism">ACTIVISM</button>
+        <button class="chip" data-special-filter="Restructuring">RESTRUCTURING</button>
+        <button class="chip" data-special-filter="Filing">FILING</button>
+        <span class="toolbar-spacer"></span>
+        <label class="searchbox"><span>SEARCH</span><input id="special-search" autocomplete="off" /></label>
+      </div>
+
+      <div class="table-wrap">
+        <table class="event-table">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Signal</th>
+              <th>Ticker</th>
+              <th>Company</th>
+              <th>Event</th>
+              <th>Status</th>
+              <th>Why It Matters</th>
+              <th>Next Step / Catalyst</th>
+              <th>Source</th>
+            </tr>
+          </thead>
+          <tbody id="special-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="panel-about" class="panel">
+      <div class="section-head">
+        <div>
+          <div class="kicker">VALUE FIELD NOTES</div>
+          <h2>About</h2>
+        </div>
+      </div>
+
+      <div class="about-grid">
+        <article class="about-card">
+          <p>Hey there, this is Tae Kim! I made this website to help with my own research process. I am a sophomore at Northwestern University, studying Mathematical Methods in the Social Sciences. You can find my research <a href="https://substack.com/@valuefieldnotes" target="_blank" rel="noopener">here</a> and my portfolio <a href="https://valuefieldnotes.netlify.app" target="_blank" rel="noopener">here</a>. Please reach me at <a href="mailto:taekim2029@u.northwestern.edu">taekim2029@u.northwestern.edu</a> or <a href="mailto:kimth6027@gmail.com">kimth6027@gmail.com</a>.</p>
+        </article>
+
+        <aside class="coverage-card">
+          <div class="coverage-title">SOURCE UNIVERSE</div>
+          <div id="coverage-list" class="coverage-list"></div>
+          <div class="coverage-note">The terminal summarizes and links to original reporting. It does not republish full articles or bypass authentication/paywalls.</div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>VFN TERMINAL</span>
+    <span>PUBLIC RESEARCH TOOL · VERIFY ORIGINAL SOURCES BEFORE ACTING</span>
+    <span id="footer-date"></span>
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
