@@ -1,0 +1,50 @@
+name: Update VFN Terminal
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # 6:15 AM CT during daylight saving time
+    - cron: "15 11 * * *"
+
+    # 12:30 PM CT
+    - cron: "30 17 * * *"
+
+    # 5:30 PM CT
+    - cron: "30 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-terminal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update VFN Terminal
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python scripts/update_terminal.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "VFN Terminal Bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "Update VFN Terminal"
+            git push
+          fi
