@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01T17:34:32.354025+00:00",
+  "updated_at": "2026-09-01T22:43:23.084580+00:00",
   "items": [
     {
       "time": "",
@@ -64,18 +64,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Newmark Closes Acquisition of Altus Group's Development Advisory Business",
-      "summary": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- Newmark Group, Inc. (Nasdaq: NMRK) (\"Newmark\" or the \"Company\"), a leading commercial real estate advisor and service provider to large institutional investors, global corporations and other owners and occupiers, today announced it has acquired the...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/newmark-closes-acquisition-of-altus-groups-development-advisory-business-302866629.html"
-    },
-    {
-      "time": "",
       "source": "UK CMA — Mergers",
       "headline": "Spreadex / Sporting Index merger inquiry",
       "summary": "Open the linked source for the full report.",
@@ -113,18 +101,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Newmark Closes Acquisition of Altus Group's Development Advisory Business",
-      "summary": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- Newmark Group, Inc. (Nasdaq: NMRK) (\"Newmark\" or the \"Company\"), a leading commercial real estate advisor and service provider to large institutional investors, global corporations and other owners and occupiers, today announced it has acquired the...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/newmark-closes-acquisition-of-altus-groups-development-advisory-business-302866629.html"
     },
     {
       "time": "",
@@ -531,6 +507,54 @@
     },
     {
       "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-baker-hughes-acquisition-chart-industries-subject-conditions-2026-07-10_en"
+    },
+    {
+      "time": "",
       "source": "Competition Bureau Canada",
       "headline": "Media advisory: Competition Bureau to hold technical briefing on challenge of Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
       "summary": "Open the linked source for the full report.",
@@ -651,30 +675,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
