@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01T11:26:23.518124+00:00",
+  "updated_at": "2026-09-01T17:34:32.354025+00:00",
   "items": [
     {
       "time": "",
@@ -64,6 +64,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Newmark Closes Acquisition of Altus Group's Development Advisory Business",
+      "summary": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- Newmark Group, Inc. (Nasdaq: NMRK) (\"Newmark\" or the \"Company\"), a leading commercial real estate advisor and service provider to large institutional investors, global corporations and other owners and occupiers, today announced it has acquired the...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/newmark-closes-acquisition-of-altus-groups-development-advisory-business-302866629.html"
+    },
+    {
+      "time": "",
       "source": "UK CMA — Mergers",
       "headline": "Spreadex / Sporting Index merger inquiry",
       "summary": "Open the linked source for the full report.",
@@ -104,6 +116,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Newmark Closes Acquisition of Altus Group's Development Advisory Business",
+      "summary": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- Newmark Group, Inc. (Nasdaq: NMRK) (\"Newmark\" or the \"Company\"), a leading commercial real estate advisor and service provider to large institutional investors, global corporations and other owners and occupiers, today announced it has acquired the...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/newmark-closes-acquisition-of-altus-groups-development-advisory-business-302866629.html"
+    },
+    {
+      "time": "",
       "source": "UK CMA — Mergers",
       "headline": "Spreadex / Sporting Index merger inquiry",
       "summary": "Open the linked source for the full report.",
@@ -141,20 +165,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
-      "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future. As Oliver Blume urged more than 10,000 workers on Tuesday to “pull together”, saying drastic restructuring measures at the struggling manufacturer were essential, they held up banners and shouted slogans, including: “Our jobs are not your balance sheet adjustments”. Continue reading...",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts"
     },
     {
       "time": "",
@@ -521,54 +531,6 @@
     },
     {
       "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-baker-hughes-acquisition-chart-industries-subject-conditions-2026-07-10_en"
-    },
-    {
-      "time": "",
       "source": "Competition Bureau Canada",
       "headline": "Media advisory: Competition Bureau to hold technical briefing on challenge of Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
       "summary": "Open the linked source for the full report.",
@@ -665,17 +627,54 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
-      "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future. As Oliver Blume urged more than 10,000 workers on Tuesday to “pull together”, saying drastic restructuring measures at the struggling manufacturer were essential, they held up banners and shouted slogans, including: “Our jobs are not your balance sheet adjustments”. Continue reading...",
+      "source": "The Guardian — Technology",
+      "headline": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
+      "summary": "Last month, Microsoft’s gaming division told its workforce it was cutting 3,200 jobs, which some say will have big ramifications for game development – as well as taking a huge personal toll On the morning of 6 July, an email went out from Asha Sharma, the chief executive of Xbox, to all of the division’s employees around the world. Under the headline “ Resetting Xbox ”, it announced the most significant restructuring in the history of Microsoft’s console business: 3,200 staff would be laid off throughout the financial year to 2027, and 1,600 of those roles would be eliminated immediately. An hour later, at studios throughout company, the Tea",
       "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
       "asset_classes": [
         "Macro",
+        "Credit",
         "Equity",
         "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts"
+      "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
