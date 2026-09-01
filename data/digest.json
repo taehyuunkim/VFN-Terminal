@@ -1,73 +1,676 @@
 {
-  "date": "2026-08-28",
-  "updated_at": "2026-08-28T21:45:00-05:00",
+  "date": "2026-09-01",
+  "updated_at": "2026-09-01T02:52:26.013578+00:00",
   "items": [
     {
-      "time": "07:10",
-      "source": "Apollo — The Daily Spark",
-      "headline": "The market, not the Fed, now sets long rates",
-      "summary": "Apollo argues that since the 2022 hiking cycle, movements in the 10-year Treasury yield have increasingly been driven outside FOMC meeting days by inflation surprises, payroll data, Treasury supply and term premium rather than the meeting itself.",
-      "investment_takeaway": "For equity duration and credit underwriting, the long end may be less controllable by the Fed than the market often assumes. Treasury supply, nominal growth and term premium deserve more weight in discount-rate and refinancing-risk scenarios.",
+      "time": "",
+      "source": "PR Newswire — M&A",
+      "headline": "Acquisitions, Mergers and Takeovers",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Macro",
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — M&A",
+      "headline": "Acquisitions, Mergers and Takeovers",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — M&A",
+      "headline": "Restructuring & Recapitalization",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — M&A",
+      "headline": "Restructuring & Recapitalization",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Inflection Point Acquisition Corp. V (0002028355) (Filer)",
+      "summary": "Filed: 2026-08-31 AccNo: 0001213900-26-095807 Size: 534 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2028355/000121390026095807/0001213900-26-095807-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - AMERICOLD REALTY TRUST (0001455863) (Filer)",
+      "summary": "Filed: 2026-08-31 AccNo: 0001193125-26-377096 Size: 214 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1455863/000119312526377096/0001193125-26-377096-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - TIDEWATER INC (0000098222) (Filer)",
+      "summary": "Filed: 2026-08-31 AccNo: 0001104659-26-103962 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/98222/000110465926103962/0001104659-26-103962-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K/A - SUIC Worldwide Holdings Ltd. (0001394108) (Filer)",
+      "summary": "Filed: 2026-08-31 AccNo: 0001477932-26-005334 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1394108/000147793226005334/0001477932-26-005334-index.htm"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Investing",
+      "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
         "Credit",
-        "Equity"
+        "Equity",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark"
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
     },
     {
-      "time": "08:15",
-      "source": "Axios AM",
-      "headline": "Nvidia's investment flywheel expands across the AI ecosystem",
-      "summary": "Axios highlights Nvidia's use of chip-generated cash flow to fund a broad network of AI investments and partnerships while hyperscalers and model developers simultaneously pursue custom silicon to reduce dependence on Nvidia.",
-      "investment_takeaway": "The near-term read-through is supportive for AI infrastructure demand, but the more important underwriting question is whether Nvidia's capital deployment reinforces ecosystem lock-in or subsidizes customers that eventually disintermediate it.",
-      "asset_classes": [
-        "Equity",
-        "Credit"
-      ],
-      "importance": "high",
-      "url": "https://www.axios.com/newsletters/axios-am-709c0f20-3279-4586-9151-d0110f2accb4"
-    },
-    {
-      "time": "09:05",
-      "source": "Reuters",
-      "headline": "U.S. equity funds post their largest weekly outflow since March",
-      "summary": "Investors pulled a net $22.33 billion from U.S. equity funds in the week through August 26 while bond funds recorded a nineteenth consecutive week of inflows.",
-      "investment_takeaway": "The rotation does not by itself call the equity tape, but it is useful positioning context: incremental flows are favoring duration and income even as equity indices remain close to highs. Watch whether large-cap outflows persist after the latest AI earnings cycle.",
-      "asset_classes": [
-        "Cross-Asset",
-        "Equity",
-        "Credit"
-      ],
-      "importance": "medium",
-      "url": "https://www.reuters.com/business/us-equity-funds-post-biggest-weekly-outflow-since-march-ahead-nvidia-earnings-fed-event-2026-08-28/"
-    },
-    {
-      "time": "10:20",
-      "source": "Reuters",
-      "headline": "Next macro hurdle shifts to jobs and Broadcom",
-      "summary": "Markets are approaching the August employment report and Broadcom earnings with the S&P 500 near its highs, putting labor-market resilience, wage pressure and AI infrastructure demand back at the center of the next risk window.",
-      "investment_takeaway": "For equities, payrolls can move both the growth and discount-rate legs of valuation simultaneously. For credit, labor weakness matters more through default expectations while stronger inflationary wage data can prolong refinancing pressure via higher yields.",
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Macro",
         "Equity",
-        "Credit"
+        "Cross-Asset"
       ],
-      "importance": "medium",
-      "url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-report-broadcom-results-pose-next-hurdles-stock-market-rally-2026-08-28/"
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
     },
     {
-      "time": "12:40",
-      "source": "The Guardian",
-      "headline": "Meta child-safety settlement raises the prospect of broader platform regulation",
-      "summary": "The Guardian reviews the implications of Meta's large U.S. child-safety settlement and the possibility that design restrictions, age controls and related litigation spread beyond the U.S.",
-      "investment_takeaway": "The relevant equity question is not only the cash settlement but whether product-level restrictions change engagement, ad inventory or compliance costs across social platforms. Regulatory remedies that affect algorithms matter more than one-time legal payments.",
+      "time": "",
+      "source": "CNBC — Investing",
+      "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
-      "importance": "medium",
-      "url": "https://www.theguardian.com/world/2026/aug/28/friday-briefing-could-metas-childsafety-settlement-open-the-door-to-global-reform"
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
+      "headline": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
+      "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”. Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with Donald Trump , who has ag",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
+      "headline": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
+      "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future. As Oliver Blume urged more than 10,000 workers on Tuesday to “pull together”, saying drastic restructuring measures at the struggling manufacturer were essential, they held up banners and shouted slogans, including: “Our jobs are not your balance sheet adjustments”. Continue reading...",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/aug/25/vw-workers-boo-boss-as-he-urges-them-to-pull-together-amid-job-cuts"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Danone / Huel merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/danone-slash-huel-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Schlumberger / ChampionX merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/schlumberger-slash-championx-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vandemoortele / Délifrance merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "FirstCash / Ramsdens merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Paramount / Warner Bros. Discovery merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Seras / Enva (dedicated waste wood business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "GXO / Wincanton merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/gxo-slash-wincanton-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Healthcare Ireland / Hutchinson Homes merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vodafone / CK Hutchison JV merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Welltower / multiple care homes merger inquiries",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "McCormick / Unilever merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Getty Images / Shutterstock merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/getty-images-slash-shutterstock-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Suzano / Kimberly-Clark JV merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/suzano-slash-kimberly-clark-jv-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "LB Group / Venator UK (TiO2 assets) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/lb-group-slash-venator-uk-tio2-assets-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Hays / Polka Dot and Hays / Millington merger inquiries",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/hays-slash-polka-dot-and-hays-slash-millington-merger-inquiries"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "LDC / Green Label merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/ldc-slash-green-label-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Open Cases",
+      "headline": "Strategic review of CMA markets remedies",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Strategic-review read: separate announced process from actual buyer interest; track adviser engagement, asset perimeter, balance-sheet urgency and any explicit timetable.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/strategic-review-of-cma-markets-remedies"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-baker-hughes-acquisition-chart-industries-subject-conditions-2026-07-10_en"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Media advisory: Competition Bureau to hold technical briefing on challenge of Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/08/competition-bureau-to-hold-technical-briefing-on-challenge-of-norteras-proposed-acquisition-of-bgs-green-giant-and-le-sieur-canadian-vegetable-busi.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau seeks to block Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/08/competition-bureau-seeks-to-block-norteras-proposed-acquisition-of-bgs-green-giant-and-le-sieur-canadian-vegetable-business.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Media advisory: Competition Bureau to hold technical briefing on its review of Keyera’s proposed acquisition at a critical Canadian energy hub",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/05/competition-bureau-to-hold-technical-briefing-on-its-review-of-keyeras-proposed-acquisition-at-a-critical-canadian-energy-hub.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau challenges Keyera’s proposed acquisition at a critical Canadian energy hub",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/05/competition-bureau-challenges-keyeras-proposed-acquisition-at-a-critical-canadian-energy-hub.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau announces adjustment to merger review filing fee, effective April 1, 2026",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/competition-bureau-announces-adjustment-to-merger-review-filing-fee-effective-april-1-2026.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Pre-merger Competition Bureau notification threshold to remain at $93M in 2026",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/pre-merger-competition-bureau-notification-threshold-to-remain-at-93m-in-2026.html"
     }
   ]
 }
