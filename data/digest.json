@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "updated_at": "2026-09-01T22:43:23.084580+00:00",
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02T11:26:56.231217+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Quantumsphere Acquisition Corp (0002070900) (Filer)",
+      "summary": "Filed: 2026-09-02 AccNo: 0001829126-26-009623 Size: 271 KB Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2070900/000182912626009623/0001829126-26-009623-index.htm"
+    },
+    {
+      "time": "",
       "source": "CNBC — Investing",
       "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
       "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
@@ -129,18 +141,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-      "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”. Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with Donald Trump , who has ag",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation"
     },
     {
       "time": "",
@@ -204,6 +204,18 @@
       ],
       "importance": "high",
       "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -288,18 +300,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -507,54 +507,6 @@
     },
     {
       "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-baker-hughes-acquisition-chart-industries-subject-conditions-2026-07-10_en"
-    },
-    {
-      "time": "",
       "source": "Competition Bureau Canada",
       "headline": "Media advisory: Competition Bureau to hold technical briefing on challenge of Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
       "summary": "Open the linked source for the full report.",
@@ -639,18 +591,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-      "summary": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”. Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with Donald Trump , who has ag",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation"
-    },
-    {
-      "time": "",
       "source": "The Guardian — Technology",
       "headline": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
       "summary": "Last month, Microsoft’s gaming division told its workforce it was cutting 3,200 jobs, which some say will have big ramifications for game development – as well as taking a huge personal toll On the morning of 6 July, an email went out from Asha Sharma, the chief executive of Xbox, to all of the division’s employees around the world. Under the headline “ Resetting Xbox ”, it announced the most significant restructuring in the history of Microsoft’s console business: 3,200 staff would be laid off throughout the financial year to 2027, and 1,600 of those roles would be eliminated immediately. An hour later, at studios throughout company, the Tea",
@@ -675,6 +615,66 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     }
   ]
 }

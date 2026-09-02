@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "updated_at": "2026-09-01T22:43:23.085457+00:00",
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02T11:26:56.231940+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "PR Newswire — M&A",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - Quantumsphere Acquisition Corp (0002070900) (Filer)",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2070900/000182912626009623/0001829126-26-009623-index.htm"
     },
     {
       "time": "",
@@ -97,6 +109,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "DOJ Antitrust",
       "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Co-operative Group / Southern Co-operative merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -185,18 +209,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "Co-operative Group / Southern Co-operative merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "Paramount / Warner Bros. Discovery merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -205,18 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "nexfibre / Substantial merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
