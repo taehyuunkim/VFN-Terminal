@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updated_at": "2026-09-02T11:26:56.231217+00:00",
+  "updated_at": "2026-09-02T17:36:17.653242+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,18 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - TWINLAB CONSOLIDATED HOLDINGS, INC. (0001590695) (Filer)",
+      "summary": "Filed: 2026-09-02 AccNo: 0001753926-26-001687 Size: 753 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.03: Bankruptcy or Receivership Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.04: Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement Item 2.06: Material Impairments Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1590695/000175392626001687/0001753926-26-001687-index.htm"
     },
     {
       "time": "",
@@ -53,14 +65,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Quantumsphere Acquisition Corp (0002070900) (Filer)",
-      "summary": "Filed: 2026-09-02 AccNo: 0001829126-26-009623 Size: 271 KB Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - Exascale Labs Holdings Inc. (0002109869) (Filer)",
+      "summary": "Filed: 2026-09-02 AccNo: 0001829126-26-009632 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 4.01: Changes in Registrant's Certifying Accountant Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Cer",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2070900/000182912626009623/0001829126-26-009623-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626009632/0001829126-26-009632-index.htm"
     },
     {
       "time": "",
@@ -156,6 +168,18 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft"
+    },
+    {
+      "time": "",
+      "source": "Fortune — Finance",
+      "headline": "The U.S. is about to churn out much more natural gas to power AI and to export—and it’s triggering a wave of multibillion-dollar acquisitions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://fortune.com/2026/09/02/us-churn-natural-gas-power-ai-export-slew-multibillion-dollar-deals/"
     },
     {
       "time": "",
@@ -507,6 +531,54 @@
     },
     {
       "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
+      "headline": "Commission approves Baker Hughes' acquisition of Chart Industries, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-baker-hughes-acquisition-chart-industries-subject-conditions-2026-07-10_en"
+    },
+    {
+      "time": "",
       "source": "Competition Bureau Canada",
       "headline": "Media advisory: Competition Bureau to hold technical briefing on challenge of Nortera’s proposed acquisition of B&G’s Green Giant and Le Sieur Canadian vegetable business",
       "summary": "Open the linked source for the full report.",
@@ -603,78 +675,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Premerger Notification Program",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     }
   ]
 }
