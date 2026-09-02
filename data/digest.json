@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updated_at": "2026-09-02T17:36:17.653242+00:00",
+  "updated_at": "2026-09-02T22:44:48.994112+00:00",
   "items": [
     {
       "time": "",
@@ -28,18 +28,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - TWINLAB CONSOLIDATED HOLDINGS, INC. (0001590695) (Filer)",
-      "summary": "Filed: 2026-09-02 AccNo: 0001753926-26-001687 Size: 753 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.03: Bankruptcy or Receivership Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.04: Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement Item 2.06: Material Impairments Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1590695/000175392626001687/0001753926-26-001687-index.htm"
-    },
-    {
-      "time": "",
       "source": "PR Newswire — M&A",
       "headline": "Restructuring & Recapitalization",
       "summary": "Open the linked source for the full report.",
@@ -65,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Exascale Labs Holdings Inc. (0002109869) (Filer)",
-      "summary": "Filed: 2026-09-02 AccNo: 0001829126-26-009632 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 4.01: Changes in Registrant's Certifying Accountant Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Cer",
+      "headline": "8-K - CHASE GENERAL CORP (0000015357) (Filer)",
+      "summary": "Filed: 2026-09-02 AccNo: 0001104659-26-104796 Size: 510 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626009632/0001829126-26-009632-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/15357/000110465926104796/0001104659-26-104796-index.htm"
     },
     {
       "time": "",
@@ -675,6 +663,18 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft"
+    },
+    {
+      "time": "",
+      "source": "Fortune — Finance",
+      "headline": "The U.S. is about to churn out much more natural gas to power AI and to export—and it’s triggering a wave of multibillion-dollar acquisitions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://fortune.com/2026/09/02/us-churn-natural-gas-power-ai-export-slew-multibillion-dollar-deals/"
     }
   ]
 }

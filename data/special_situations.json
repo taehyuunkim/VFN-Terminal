@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "updated_at": "2026-09-02T17:36:17.654077+00:00",
+  "updated_at": "2026-09-02T22:44:48.994802+00:00",
   "items": [
     {
       "time": "",
@@ -17,18 +17,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - TWINLAB CONSOLIDATED HOLDINGS, INC. (0001590695) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1590695/000175392626001687/0001753926-26-001687-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "Restructuring & Recapitalization",
       "event_type": "Restructuring",
       "status": "Live",
@@ -41,14 +29,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - Exascale Labs Holdings Inc. (0002109869) (Filer)",
+      "company": "8-K - CHASE GENERAL CORP (0000015357) (Filer)",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626009632/0001829126-26-009632-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/15357/000110465926104796/0001104659-26-104796-index.htm"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Paramount / Warner Bros. Discovery merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
     }
   ]
 }
