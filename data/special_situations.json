@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "updated_at": "2026-09-03T11:24:30.009878+00:00",
+  "updated_at": "2026-09-03T17:37:58.132332+00:00",
   "items": [
     {
       "time": "",
@@ -29,42 +29,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - Texas Ventures Acquisition III Corp (0002033991) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2033991/000110465926104858/0001104659-26-104858-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - Ribbon Acquisition Corp. (0002035016) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2035016/000121390026096875/0001213900-26-096875-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - Andretti Acquisition Corp. II (0002025341) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2025341/000121390026096872/0001213900-26-096872-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "Spreadex / Sporting Index merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -85,6 +49,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "Competition Bureau Canada",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36 (0002145539) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/0001539497-26-002452-index.htm"
     },
     {
       "time": "",
@@ -217,6 +193,30 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Vandemoortele / Délifrance merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "FirstCash / Ramsdens merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
     }
   ]
 }

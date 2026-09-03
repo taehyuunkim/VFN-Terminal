@@ -1,33 +1,9 @@
 {
   "date": "2026-09-03",
-  "updated_at": "2026-09-03T11:24:30.009062+00:00",
+  "updated_at": "2026-09-03T17:37:58.131445+00:00",
   "items": [
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "NT1 Pty Ltd enters definitive agreement to combine with Plutonian Acquisition Corp. II",
-      "summary": "SYDNEY and NEW YORK, Sept. 3, 2026 /PRNewswire/ -- Mineral exploration company NT1 Pty Ltd (\"NT1\"), has entered into an Agreement and Plan of Merger and Business Combination Agreement (\"BCA\") with Plutonian Acquisition Corp. II (\"Plutonian II\"), a publicly traded special purpose...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/nt1-pty-ltd-enters-definitive-agreement-to-combine-with-plutonian-acquisition-corp-ii-302868822.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "NT1 Pty Ltd enters definitive agreement to combine with Plutonian Acquisition Corp. II",
-      "summary": "SYDNEY and NEW YORK, Sept. 3, 2026 /PRNewswire/ -- Mineral exploration company NT1 Pty Ltd (\"NT1\"), has entered into an Agreement and Plan of Merger and Business Combination Agreement (\"BCA\") with Plutonian Acquisition Corp. II (\"Plutonian II\"), a publicly traded special purpose...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/nt1-pty-ltd-enters-definitive-agreement-to-combine-with-plutonian-acquisition-corp-ii-302868822.html"
-    },
-    {
-      "time": "",
       "source": "PR Newswire — M&A",
       "headline": "Acquisitions, Mergers and Takeovers",
       "summary": "Open the linked source for the full report.",
@@ -73,42 +49,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Texas Ventures Acquisition III Corp (0002033991) (Filer)",
-      "summary": "Filed: 2026-09-03 AccNo: 0001104659-26-104858 Size: 12 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2033991/000110465926104858/0001104659-26-104858-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Ribbon Acquisition Corp. (0002035016) (Filer)",
-      "summary": "Filed: 2026-09-03 AccNo: 0001213900-26-096875 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2035016/000121390026096875/0001213900-26-096875-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Andretti Acquisition Corp. II (0002025341) (Filer)",
-      "summary": "Filed: 2026-09-03 AccNo: 0001213900-26-096872 Size: 374 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2025341/000121390026096872/0001213900-26-096872-index.htm"
     },
     {
       "time": "",
@@ -189,6 +129,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36 (0002145539) (Filer)",
+      "summary": "Filed: 2026-09-03 AccNo: 0001539497-26-002452 Size: 6 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/0001539497-26-002452-index.htm"
     },
     {
       "time": "",
@@ -672,6 +624,57 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/pre-merger-competition-bureau-notification-threshold-to-remain-at-93m-in-2026.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into WELL Health’s acquisition of HEALWELL",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Technology",
+      "headline": "‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox",
+      "summary": "Last month, Microsoft’s gaming division told its workforce it was cutting 3,200 jobs, which some say will have big ramifications for game development – as well as taking a huge personal toll On the morning of 6 July, an email went out from Asha Sharma, the chief executive of Xbox, to all of the division’s employees around the world. Under the headline “ Resetting Xbox ”, it announced the most significant restructuring in the history of Microsoft’s console business: 3,200 staff would be laid off throughout the financial year to 2027, and 1,600 of those roles would be eliminated immediately. An hour later, at studios throughout company, the Tea",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/games/2026/sep/01/xbox-layoffs-microsoft"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
     }
   ]
 }
