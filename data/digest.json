@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updated_at": "2026-09-04T17:34:29.764943+00:00",
+  "updated_at": "2026-09-04T22:42:13.753664+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Global Asset Management Group, Inc. (0000055234) (Filer)",
-      "summary": "Filed: 2026-09-04 AccNo: 0001477932-26-005420 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 3.03: Material Modifications to Rights of Security Holders Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - Greenland Mines Ltd (0001907223) (Filer)",
+      "summary": "Filed: 2026-09-04 AccNo: 0001213900-26-097770 Size: 372 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/55234/000147793226005420/0001477932-26-005420-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026097770/0001213900-26-097770-index.htm"
     },
     {
       "time": "",
@@ -87,18 +87,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Primero Games Acquires Win Systems Gaming Division, Expanding International Reach",
-      "summary": "Acquisition adds slot and electronic-roulette products, manufacturing capabilities and an installed base of more than 3,000 gaming positions across Latin America and the Caribbean. NORCROSS, Ga., Sept. 4, 2026 /PRNewswire/ -- Primero Games LLC (\"Primero\"), a provider of gaming content,...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/primero-games-acquires-win-systems-gaming-division-expanding-international-reach-302870282.html"
     },
     {
       "time": "",
@@ -153,18 +141,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Primero Games Acquires Win Systems Gaming Division, Expanding International Reach",
-      "summary": "Acquisition adds slot and electronic-roulette products, manufacturing capabilities and an installed base of more than 3,000 gaming positions across Latin America and the Caribbean. NORCROSS, Ga., Sept. 4, 2026 /PRNewswire/ -- Primero Games LLC (\"Primero\"), a provider of gaming content,...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/primero-games-acquires-win-systems-gaming-division-expanding-international-reach-302870282.html"
     },
     {
       "time": "",
@@ -675,6 +651,32 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
+    },
+    {
+      "time": "",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
     }
   ]
 }
