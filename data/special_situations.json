@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "updated_at": "2026-09-04T11:25:52.137630+00:00",
+  "updated_at": "2026-09-04T17:34:29.765661+00:00",
   "items": [
     {
       "time": "",
@@ -29,6 +29,18 @@
     {
       "time": "",
       "ticker": "",
+      "company": "8-K - Global Asset Management Group, Inc. (0000055234) (Filer)",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/55234/000147793226005420/0001477932-26-005420-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "Spreadex / Sporting Index merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -49,18 +61,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "Competition Bureau Canada",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - Morgan Stanley Bank of America Merrill Lynch Trust 2026-C36 (0002145539) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2145539/000153949726002452/0001539497-26-002452-index.htm"
     },
     {
       "time": "",
