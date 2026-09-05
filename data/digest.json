@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "updated_at": "2026-09-05T11:22:24.644878+00:00",
+  "updated_at": "2026-09-05T17:31:58.773786+00:00",
   "items": [
     {
       "time": "",
@@ -64,20 +64,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
-      "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html"
-    },
-    {
-      "time": "",
       "source": "CNBC — Investing",
       "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
       "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
@@ -115,20 +101,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Top News",
-      "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
-      "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html"
     },
     {
       "time": "",
@@ -677,6 +649,30 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
