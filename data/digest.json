@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-08",
-  "updated_at": "2026-09-08T22:42:01.150479+00:00",
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09T11:26:29.898244+00:00",
   "items": [
     {
       "time": "",
@@ -52,30 +52,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Andretti Acquisition Corp. II (0002025341) (Filer)",
-      "summary": "Filed: 2026-09-08 AccNo: 0001213900-26-097832 Size: 373 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2025341/000121390026097832/0001213900-26-097832-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Cayson Acquisition Corp (0002024203) (Filer)",
-      "summary": "Filed: 2026-09-08 AccNo: 0001493152-26-041659 Size: 333 KB Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2024203/000149315226041659/0001493152-26-041659-index.htm"
-    },
-    {
-      "time": "",
       "source": "CNBC — Investing",
       "headline": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
       "summary": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
@@ -85,18 +61,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Trimble Acquires Terasat Japan to Expand Real-Time, Centimeter-Level VRS Correction Services Footprint",
-      "summary": "Trimble VRS Network to provide high-precision positioning services for geospatial, construction, automotive and agriculture industries in Japan WESTMINSTER, Colo., Sept. 8, 2026 /PRNewswire/ -- Trimble announced today the acquisition of Terasat Japan, one of the largest virtual reference...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/trimble-acquires-terasat-japan-to-expand-real-time-centimeter-level-vrs-correction-services-footprint-302872895.html"
     },
     {
       "time": "",
@@ -137,18 +101,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Trimble Acquires Terasat Japan to Expand Real-Time, Centimeter-Level VRS Correction Services Footprint",
-      "summary": "Trimble VRS Network to provide high-precision positioning services for geospatial, construction, automotive and agriculture industries in Japan WESTMINSTER, Colo., Sept. 8, 2026 /PRNewswire/ -- Trimble announced today the acquisition of Terasat Japan, one of the largest virtual reference...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/trimble-acquires-terasat-japan-to-expand-real-time-centimeter-level-vrs-correction-services-footprint-302872895.html"
     },
     {
       "time": "",
@@ -673,6 +625,54 @@
       ],
       "importance": "high",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     }
   ]
 }
