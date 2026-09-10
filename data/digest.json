@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "updated_at": "2026-09-09T22:43:27.812648+00:00",
+  "date": "2026-09-10",
+  "updated_at": "2026-09-10T11:26:15.665594+00:00",
   "items": [
     {
       "time": "",
@@ -167,6 +167,42 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Welltower / multiple care homes merger inquiries",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     },
     {
       "time": "",
@@ -347,18 +383,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Welltower / multiple care homes merger inquiries",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     },
     {
       "time": "",
@@ -628,51 +652,27 @@
     },
     {
       "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Seras / Enva (dedicated waste wood business) merger inquiry",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     },
     {
       "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Danone / Huel merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/danone-slash-huel-merger-inquiry"
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "updated_at": "2026-09-09T22:43:27.813538+00:00",
+  "date": "2026-09-10",
+  "updated_at": "2026-09-10T11:26:15.666492+00:00",
   "items": [
     {
       "time": "",
@@ -73,6 +73,42 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "FTC — Competition",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "DOJ Antitrust",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "DOJ Antitrust",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Welltower / multiple care homes merger inquiries",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     },
     {
       "time": "",
@@ -181,42 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Paramount / Warner Bros. Discovery merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "nexfibre / Substantial merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
     }
   ]
 }
