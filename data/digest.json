@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "updated_at": "2026-09-10T17:37:11.960992+00:00",
+  "updated_at": "2026-09-10T22:43:23.262331+00:00",
   "items": [
     {
       "time": "",
@@ -49,6 +49,18 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - ARC Group Acquisition I Corp. (0002073515) (Filer)",
+      "summary": "Filed: 2026-09-10 AccNo: 0001493152-26-042241 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2073515/000149315226042241/0001493152-26-042241-index.htm"
     },
     {
       "time": "",
@@ -661,18 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     }
   ]
 }
