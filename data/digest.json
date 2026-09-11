@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10",
-  "updated_at": "2026-09-10T22:43:23.262331+00:00",
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11T11:25:56.422887+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - ARC Group Acquisition I Corp. (0002073515) (Filer)",
-      "summary": "Filed: 2026-09-10 AccNo: 0001493152-26-042241 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - GPO Plus, Inc. (0001673475) (Filer)",
+      "summary": "Filed: 2026-09-11 AccNo: 0001640334-26-001495 Size: 333 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2073515/000149315226042241/0001493152-26-042241-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1673475/000164033426001495/0001640334-26-001495-index.htm"
     },
     {
       "time": "",
@@ -141,6 +141,20 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Treasury yields steady as traders await consumer inflation data amid oil price pressure",
+      "summary": "Treasurys steadied Friday after surging to multiyear highs, as investors await more economic data.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html"
     },
     {
       "time": "",
@@ -626,6 +640,20 @@
     },
     {
       "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Treasury yields steady as traders await consumer inflation data amid oil price pressure",
+      "summary": "Treasurys steadied Friday after surging to multiyear highs, as investors await more economic data.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html"
+    },
+    {
+      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -649,30 +677,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
