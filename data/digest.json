@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "updated_at": "2026-09-14T11:27:37.903934+00:00",
+  "updated_at": "2026-09-14T17:36:59.207569+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Embrace Change Acquisition Corp. (0001869601) (Filer)",
-      "summary": "Filed: 2026-09-14 AccNo: 0001493152-26-042465 Size: 266 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "headline": "8-K - Ondas Inc. (0001646188) (Filer)",
+      "summary": "Filed: 2026-09-14 AccNo: 0001213900-26-099531 Size: 4 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1869601/000149315226042465/0001493152-26-042465-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/0001213900-26-099531-index.htm"
     },
     {
       "time": "",
@@ -120,41 +120,27 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - TOYOTA MOTOR CREDIT CORP (0000834071) (Filer)",
-      "summary": "Filed: 2026-09-14 AccNo: 0000950103-26-013869 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Credit"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/834071/000095010326013869/0000950103-26-013869-index.htm"
-    },
-    {
-      "time": "",
-      "source": "NYT — Business",
-      "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-      "summary": "The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.",
+      "source": "CNBC — Top News",
+      "headline": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
+      "summary": "The Federal Reserve is widely expected to raise its benchmark interest rate by a quarter percentage point at its September meeting.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html"
+      "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html"
     },
     {
       "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "source": "PR Newswire — General Business",
+      "headline": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
+      "summary": "Acquisition expands access to technology and accelerates AI innovation across the food & beverage industry COLCHESTER, Vt., Sept. 14, 2026 /PRNewswire/ -- VIP, a leading technology partner to the food and beverage industry, today announced the completion of its acquisition of Encompass...",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
+        "Equity"
       ],
       "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+      "url": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html"
     },
     {
       "time": "",
@@ -626,29 +612,27 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
-      "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-      "summary": "The odds of a quarter-point rate increase at the Federal Reserve’s meeting next week surged to 90 percent after August’s Consumer Price Index report.",
+      "source": "CNBC — Top News",
+      "headline": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
+      "summary": "The Federal Reserve is widely expected to raise its benchmark interest rate by a quarter percentage point at its September meeting.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html"
+      "url": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html"
     },
     {
       "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "source": "PR Newswire — General Business",
+      "headline": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
+      "summary": "Acquisition expands access to technology and accelerates AI innovation across the food & beverage industry COLCHESTER, Vt., Sept. 14, 2026 /PRNewswire/ -- VIP, a leading technology partner to the food and beverage industry, today announced the completion of its acquisition of Encompass...",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
+        "Equity"
       ],
       "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+      "url": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html"
     },
     {
       "time": "",
@@ -673,6 +657,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
