@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "updated_at": "2026-09-14T17:36:59.207569+00:00",
+  "updated_at": "2026-09-14T22:44:31.629621+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Ondas Inc. (0001646188) (Filer)",
-      "summary": "Filed: 2026-09-14 AccNo: 0001213900-26-099531 Size: 4 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - byNordic Acquisition Corp (0001801417) (Filer)",
+      "summary": "Filed: 2026-09-14 AccNo: 0001213900-26-099780 Size: 314 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/0001213900-26-099531-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1801417/000121390026099780/0001213900-26-099780-index.htm"
     },
     {
       "time": "",
@@ -132,15 +132,17 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
-      "summary": "Acquisition expands access to technology and accelerates AI innovation across the food & beverage industry COLCHESTER, Vt., Sept. 14, 2026 /PRNewswire/ -- VIP, a leading technology partner to the food and beverage industry, today announced the completion of its acquisition of Encompass...",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Equity"
+        "Macro",
+        "Equity",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html"
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
     },
     {
       "time": "",
@@ -624,15 +626,17 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
-      "summary": "Acquisition expands access to technology and accelerates AI innovation across the food & beverage industry COLCHESTER, Vt., Sept. 14, 2026 /PRNewswire/ -- VIP, a leading technology partner to the food and beverage industry, today announced the completion of its acquisition of Encompass...",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Equity"
+        "Macro",
+        "Equity",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html"
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
     },
     {
       "time": "",
