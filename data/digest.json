@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-14",
-  "updated_at": "2026-09-14T22:44:31.629621+00:00",
+  "date": "2026-09-15",
+  "updated_at": "2026-09-15T11:25:29.147264+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - byNordic Acquisition Corp (0001801417) (Filer)",
-      "summary": "Filed: 2026-09-14 AccNo: 0001213900-26-099780 Size: 314 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - Hubilu Venture Corp (0001639068) (Filer)",
+      "summary": "Filed: 2026-09-15 AccNo: 0001493152-26-042656 Size: 47 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1801417/000121390026099780/0001213900-26-099780-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1639068/000149315226042656/0001493152-26-042656-index.htm"
     },
     {
       "time": "",
@@ -207,18 +207,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "Seras / Enva (dedicated waste wood business) merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Co-operative Group / Southern Co-operative merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -227,6 +215,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Seras / Enva (dedicated waste wood business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
     },
     {
       "time": "",
