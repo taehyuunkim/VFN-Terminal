@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "updated_at": "2026-09-16T17:37:27.543776+00:00",
+  "updated_at": "2026-09-16T22:43:43.609610+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,20 @@
     },
     {
       "time": "",
+      "source": "CNBC — Top News",
+      "headline": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+      "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
+    },
+    {
+      "time": "",
       "source": "UK CMA — Mergers",
       "headline": "Spreadex / Sporting Index merger inquiry",
       "summary": "Open the linked source for the full report.",
@@ -77,6 +91,20 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+      "summary": "The 10-year yield moved above the 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
     },
     {
       "time": "",
@@ -109,8 +137,20 @@
     {
       "time": "",
       "source": "The Guardian — Business",
+      "headline": "US Federal Reserve raises interest rates for the first time since 2023",
+      "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% Federal Reserve raises interest rates – live The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
       "headline": "US treasury secretary hails government’s bond buyback a success",
-      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
+      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041% as investors are wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro",
@@ -136,9 +176,9 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
-      "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
+      "source": "NPR — Business",
+      "headline": "The Fed raises interest rates for the first time in over three years",
+      "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro",
@@ -146,7 +186,7 @@
         "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy"
     },
     {
       "time": "",
@@ -513,6 +553,18 @@
     {
       "time": "",
       "source": "European Commission — Mergers",
+      "headline": "Commission sends Statement of Objections over the proposed acquisition of Anglo American's nickel business by MMG",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1877"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
       "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -533,18 +585,6 @@
       ],
       "importance": "high",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens formal investigation into possible gun jumping in XXXLutz's acquisition of Porta",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-gun-jumping-xxxlutzs-acquisition-porta-2026-07-10_en"
     },
     {
       "time": "",
@@ -633,58 +673,14 @@
     {
       "time": "",
       "source": "The Guardian — Business",
-      "headline": "US treasury secretary hails government’s bond buyback a success",
-      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
+      "headline": "US Federal Reserve raises interest rates for the first time since 2023",
+      "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% Federal Reserve raises interest rates – live The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
+        "Macro"
       ],
       "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
-      "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
-    },
-    {
-      "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
     }
   ]
 }
