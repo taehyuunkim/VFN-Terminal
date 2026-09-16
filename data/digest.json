@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "updated_at": "2026-09-16T11:27:05.784334+00:00",
+  "updated_at": "2026-09-16T17:37:27.543776+00:00",
   "items": [
     {
       "time": "",
@@ -123,7 +123,21 @@
     {
       "time": "",
       "source": "CNBC — Top News",
-      "headline": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+      "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
       "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
@@ -133,20 +147,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
-    },
-    {
-      "time": "",
-      "source": "NYT — Business",
-      "headline": "Fed Meeting Will Test Central Bank’s Credibility With Bond Investors",
-      "summary": "If the Fed opts against raising interest rates on Wednesday, investors will probably increase their forecasts for inflation, injecting new turmoil into the government bond market.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html"
     },
     {
       "time": "",
@@ -647,7 +647,21 @@
     {
       "time": "",
       "source": "CNBC — Top News",
-      "headline": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+      "headline": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Yield on 10-year Treasury below 5% as investors await Fed decision",
       "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
@@ -657,20 +671,6 @@
       ],
       "importance": "high",
       "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html"
-    },
-    {
-      "time": "",
-      "source": "NYT — Business",
-      "headline": "Fed Meeting Will Test Central Bank’s Credibility With Bond Investors",
-      "summary": "If the Fed opts against raising interest rates on Wednesday, investors will probably increase their forecasts for inflation, injecting new turmoil into the government bond market.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html"
     },
     {
       "time": "",
