@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "updated_at": "2026-09-17T22:43:08.390881+00:00",
+  "date": "2026-09-18",
+  "updated_at": "2026-09-18T11:28:18.591843+00:00",
   "items": [
     {
       "time": "",
@@ -125,14 +125,26 @@
     {
       "time": "",
       "ticker": "",
-      "company": "Seras / Enva (dedicated waste wood business) merger inquiry",
+      "company": "Vandemoortele / Délifrance merger inquiry",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
+      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Welltower / multiple care homes merger inquiries",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     },
     {
       "time": "",
@@ -145,6 +157,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Seras / Enva (dedicated waste wood business) merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
     },
     {
       "time": "",
@@ -193,30 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/schlumberger-slash-championx-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Aramark / Entier merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Vandemoortele / Délifrance merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
     }
   ]
 }
