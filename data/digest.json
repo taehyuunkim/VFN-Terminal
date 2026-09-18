@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated_at": "2026-09-18T17:35:43.265802+00:00",
+  "updated_at": "2026-09-18T22:43:17.687374+00:00",
   "items": [
     {
       "time": "",
@@ -52,95 +52,95 @@
     },
     {
       "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
-      "summary": "Filed: 2026-09-18 AccNo: 0001493152-26-043273 Size: 427 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "headline": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+      "summary": "Filed: 2026-09-18 AccNo: 0000885550-26-000192 Size: 335 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226043273/0001493152-26-043273-index.htm"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Spreadex / Sporting Index merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Spreadex / Sporting Index merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
     },
     {
       "time": "",
@@ -167,20 +167,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback"
-    },
-    {
-      "time": "",
-      "source": "NPR — Business",
-      "headline": "The Fed raises interest rates for the first time in over three years",
-      "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy"
     },
     {
       "time": "",
@@ -675,6 +661,20 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
+      "headline": "US treasury secretary hails government’s bond buyback a success",
+      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041% as investors are wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback"
     }
   ]
 }
