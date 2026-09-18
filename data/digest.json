@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "updated_at": "2026-09-18T11:28:18.590903+00:00",
+  "updated_at": "2026-09-18T17:35:43.265802+00:00",
   "items": [
     {
       "time": "",
@@ -49,6 +49,18 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+      "summary": "Filed: 2026-09-18 AccNo: 0001493152-26-043273 Size: 427 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1854463/000149315226043273/0001493152-26-043273-index.htm"
     },
     {
       "time": "",
@@ -663,20 +675,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US treasury secretary hails government’s bond buyback a success",
-      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041% as investors are wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback"
     }
   ]
 }
