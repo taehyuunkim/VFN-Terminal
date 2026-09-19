@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "updated_at": "2026-09-18T22:43:17.687374+00:00",
+  "date": "2026-09-19",
+  "updated_at": "2026-09-19T11:22:51.565650+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "NYT — Business",
+      "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
+      "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -89,6 +101,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "NYT — Business",
+      "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
+      "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html"
     },
     {
       "time": "",
@@ -649,32 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US Federal Reserve raises interest rates for the first time since 2023",
-      "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US treasury secretary hails government’s bond buyback a success",
-      "summary": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041% as investors are wary Iran war fallout Scott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success. The claim came as the 10-year treasury yield reached a 19-year high on Tuesday, increasing pressure on interest rates as the Federal Reserve weighs another hike to see off rising inflation. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback"
     }
   ]
 }
