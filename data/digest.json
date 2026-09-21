@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "updated_at": "2026-09-20T22:41:17.946609+00:00",
+  "date": "2026-09-21",
+  "updated_at": "2026-09-21T11:28:08.621403+00:00",
   "items": [
     {
       "time": "",
@@ -157,14 +157,26 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
-      "summary": "Filed: 2026-09-18 AccNo: 0000885550-26-000192 Size: 335 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Filer)",
+      "summary": "Filed: 2026-09-21 AccNo: 0001193125-26-396059 Size: 464 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Credit"
+        "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526396059/0001193125-26-396059-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - AIAI Holdings Corp (0002096362) (Filer)",
+      "summary": "Filed: 2026-09-21 AccNo: 0001493152-26-043456 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226043456/0001493152-26-043456-index.htm"
     },
     {
       "time": "",
@@ -659,18 +671,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US Federal Reserve raises interest rates for the first time since 2023",
-      "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
     }
   ]
 }
