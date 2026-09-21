@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updated_at": "2026-09-21T17:35:27.552695+00:00",
+  "updated_at": "2026-09-21T22:44:51.136865+00:00",
   "items": [
     {
       "time": "",
@@ -101,30 +101,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "DOJ Antitrust",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "DOJ Antitrust",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "ABP / Dovecote Park merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -217,6 +193,30 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/danone-slash-huel-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Schlumberger / ChampionX merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/schlumberger-slash-championx-merger-inquiry"
     }
   ]
 }

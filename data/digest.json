@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updated_at": "2026-09-21T17:35:27.551846+00:00",
+  "updated_at": "2026-09-21T22:44:51.136080+00:00",
   "items": [
     {
       "time": "",
@@ -227,30 +227,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     },
     {
       "time": "",
@@ -671,6 +647,32 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
+    },
+    {
+      "time": "",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
     }
   ]
 }
