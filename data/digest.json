@@ -1,6 +1,6 @@
 {
   "date": "2026-09-21",
-  "updated_at": "2026-09-21T11:28:08.621403+00:00",
+  "updated_at": "2026-09-21T17:35:27.551846+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html"
+    },
+    {
+      "time": "",
       "source": "NYT — Business",
       "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
       "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
@@ -101,6 +113,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html"
     },
     {
       "time": "",
@@ -157,38 +181,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - MAGNACHIP SEMICONDUCTOR Corp (0001325702) (Filer)",
-      "summary": "Filed: 2026-09-21 AccNo: 0001193125-26-396059 Size: 464 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+      "summary": "Filed: 2026-09-18 AccNo: 0000885550-26-000192 Size: 335 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1325702/000119312526396059/0001193125-26-396059-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - AIAI Holdings Corp (0002096362) (Filer)",
-      "summary": "Filed: 2026-09-21 AccNo: 0001493152-26-043456 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226043456/0001493152-26-043456-index.htm"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US Federal Reserve raises interest rates for the first time since 2023",
-      "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates"
+      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
     },
     {
       "time": "",
@@ -251,6 +251,18 @@
       ],
       "importance": "high",
       "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "ABP / Dovecote Park merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
     },
     {
       "time": "",
@@ -527,18 +539,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/ldc-slash-green-label-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
     },
     {
       "time": "",
