@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updated_at": "2026-09-22T17:37:38.500558+00:00",
+  "updated_at": "2026-09-22T22:43:33.277901+00:00",
   "items": [
     {
       "time": "",
@@ -28,30 +28,6 @@
     },
     {
       "time": "",
-      "source": "Accesswire",
-      "headline": "Vicapsys Life Sciences Completes Reverse Merger with Stateline Distributors of Puerto Rico and Signs Definitive Agreement to Acquire NitroMist(R), Creating a Vertically Integrated Pharmaceutical Manufacturing and Distribution Platform Serving Federal, Tribal and Underserved Markets",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vicapsys-life-sciences-completes-reverse-merger-with-stateline-distri-1225356"
-    },
-    {
-      "time": "",
-      "source": "Accesswire",
-      "headline": "Vicapsys Life Sciences Completes Reverse Merger with Stateline Distributors of Puerto Rico and Signs Definitive Agreement to Acquire NitroMist(R), Creating a Vertically Integrated Pharmaceutical Manufacturing and Distribution Platform Serving Federal, Tribal and Underserved Markets",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vicapsys-life-sciences-completes-reverse-merger-with-stateline-distri-1225356"
-    },
-    {
-      "time": "",
       "source": "PR Newswire — M&A",
       "headline": "Restructuring & Recapitalization",
       "summary": "Open the linked source for the full report.",
@@ -76,15 +52,53 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "source": "SEC / 8-K",
+      "headline": "8-K - FortuneX Acquisition Corp (0002121703) (Filer)",
+      "summary": "Filed: 2026-09-22 AccNo: 0001829126-26-010318 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html"
+      "url": "https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/0001829126-26-010318-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Plutonian Acquisition Corp. II (0002065661) (Filer)",
+      "summary": "Filed: 2026-09-22 AccNo: 0001477932-26-005747 Size: 788 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2065661/000147793226005747/0001477932-26-005747-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Haymaker Acquisition Corp V (0002111838) (Filer)",
+      "summary": "Filed: 2026-09-22 AccNo: 0001193125-26-398119 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2111838/000119312526398119/0001193125-26-398119-index.htm"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
+      "headline": "‘Don’t spend $20 on an acai bowl’: gen Z are shunning private equity’s restaurant takeover",
+      "summary": "As more PE firms invest in food establishments, people are bemoaning the ‘same-ification’ of NYC’s restaurant scene Los Tacos No 1 is a classic New York success story. After the Mexican-style taco joint opened in 2013, it quickly became a critic’s pick in the city’s paper of record , drawing long lines and a devoted lunchtime crowd. As word spread about its juicy al pastor and handmade tortillas, it expanded to nine locations. Then, this September, bad news struck : Los Tacos No 1 had received an undisclosed amount of funding from private equity firm TSG Consumer. According to a press release, this cash would help Los Tacos pursue “thoughtful",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
     },
     {
       "time": "",
@@ -128,15 +142,17 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
-      "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+      "source": "The Guardian — Business",
+      "headline": "‘Don’t spend $20 on an acai bowl’: gen Z are shunning private equity’s restaurant takeover",
+      "summary": "As more PE firms invest in food establishments, people are bemoaning the ‘same-ification’ of NYC’s restaurant scene Los Tacos No 1 is a classic New York success story. After the Mexican-style taco joint opened in 2013, it quickly became a critic’s pick in the city’s paper of record , drawing long lines and a devoted lunchtime crowd. As word spread about its juicy al pastor and handmade tortillas, it expanded to nine locations. Then, this September, bad news struck : Los Tacos No 1 had received an undisclosed amount of funding from private equity firm TSG Consumer. According to a press release, this cash would help Los Tacos pursue “thoughtful",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
-        "Equity"
+        "Credit",
+        "Equity",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html"
+      "url": "https://www.theguardian.com/food/2026/sep/21/gen-z-private-equity-restaurants"
     },
     {
       "time": "",
@@ -215,6 +231,30 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     },
     {
       "time": "",
@@ -637,42 +677,6 @@
       ],
       "importance": "high",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Premerger Notification Program",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "KONE / TK Elevator merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/kone-slash-tk-elevator-merger-inquiry"
     }
   ]
 }
