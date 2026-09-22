@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "updated_at": "2026-09-22T11:25:54.377729+00:00",
+  "updated_at": "2026-09-22T17:37:38.500558+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,30 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Vicapsys Life Sciences Completes Reverse Merger with Stateline Distributors of Puerto Rico and Signs Definitive Agreement to Acquire NitroMist(R), Creating a Vertically Integrated Pharmaceutical Manufacturing and Distribution Platform Serving Federal, Tribal and Underserved Markets",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vicapsys-life-sciences-completes-reverse-merger-with-stateline-distri-1225356"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Vicapsys Life Sciences Completes Reverse Merger with Stateline Distributors of Puerto Rico and Signs Definitive Agreement to Acquire NitroMist(R), Creating a Vertically Integrated Pharmaceutical Manufacturing and Distribution Platform Serving Federal, Tribal and Underserved Markets",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/vicapsys-life-sciences-completes-reverse-merger-with-stateline-distri-1225356"
     },
     {
       "time": "",
@@ -191,30 +215,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     },
     {
       "time": "",
@@ -626,18 +626,6 @@
     },
     {
       "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into WELL Health’s acquisition of HEALWELL",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2025/12/competition-bureau-obtains-a-court-order-to-advance-investigation-into-well-healths-acquisition-of-healwell.html"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -673,6 +661,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "KONE / TK Elevator merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/kone-slash-tk-elevator-merger-inquiry"
     }
   ]
 }
