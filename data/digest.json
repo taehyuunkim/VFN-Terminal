@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "updated_at": "2026-09-21T22:44:51.136080+00:00",
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22T11:25:54.377729+00:00",
   "items": [
     {
       "time": "",
@@ -64,18 +64,6 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
-      "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-      "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -128,18 +116,6 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
-      "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-      "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -180,18 +156,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
-      "summary": "Filed: 2026-09-18 AccNo: 0000885550-26-000192 Size: 335 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Credit"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -227,6 +191,42 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "KONE / TK Elevator merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/kone-slash-tk-elevator-merger-inquiry"
     },
     {
       "time": "",
@@ -506,18 +506,6 @@
     },
     {
       "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "LDC / Green Label merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/ldc-slash-green-label-merger-inquiry"
-    },
-    {
-      "time": "",
       "source": "UK CMA — Open Cases",
       "headline": "Strategic review of CMA markets remedies",
       "summary": "Open the linked source for the full report.",
@@ -673,6 +661,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
     }
   ]
 }
