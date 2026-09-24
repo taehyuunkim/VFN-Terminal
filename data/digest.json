@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-24T17:36:02.976605+00:00",
+  "updated_at": "2026-09-24T22:42:00.784232+00:00",
   "items": [
     {
       "time": "",
@@ -49,30 +49,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Statecraft acquires Daybreak to accelerate efficiency in federal services",
-      "summary": "The acquisition will help federal agencies replace labor-intensive services with targeted, auditable AI workflows at a fraction of the cost WASHINGTON, Sept. 24, 2026 /PRNewswire/ -- Statecraft, an AI-native federal technology startup, today announced its acquisition of Daybreak LLC, an...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/statecraft-acquires-daybreak-to-accelerate-efficiency-in-federal-services-302889581.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Statecraft acquires Daybreak to accelerate efficiency in federal services",
-      "summary": "The acquisition will help federal agencies replace labor-intensive services with targeted, auditable AI workflows at a fraction of the cost WASHINGTON, Sept. 24, 2026 /PRNewswire/ -- Statecraft, an AI-native federal technology startup, today announced its acquisition of Daybreak LLC, an...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/statecraft-acquires-daybreak-to-accelerate-efficiency-in-federal-services-302889581.html"
     },
     {
       "time": "",
@@ -157,14 +133,26 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
-      "summary": "Filed: 2026-09-18 AccNo: 0000885550-26-000192 Size: 335 KB Item 1.01: Entry into a Material Definitive Agreement Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
+      "summary": "Filed: 2026-09-24 AccNo: 0001193125-26-401226 Size: 970 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
         "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526401226/0001193125-26-401226-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K/A - Banzai International, Inc. (0001826011) (Filer)",
+      "summary": "Filed: 2026-09-24 AccNo: 0001493152-26-044168 Size: 303 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226044168/0001493152-26-044168-index.htm"
     },
     {
       "time": "",
@@ -177,6 +165,20 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html"
     },
     {
       "time": "",

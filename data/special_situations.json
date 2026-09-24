@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-24T17:36:02.977585+00:00",
+  "updated_at": "2026-09-24T22:42:00.784977+00:00",
   "items": [
     {
       "time": "",
@@ -65,14 +65,26 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+      "company": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
       "event_type": "Filing",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526401226/0001193125-26-401226-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K/A - Banzai International, Inc. (0001826011) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226044168/0001493152-26-044168-index.htm"
     },
     {
       "time": "",
@@ -205,18 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Co-operative Group / Southern Co-operative merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     }
   ]
 }
