@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "updated_at": "2026-09-23T22:44:27.227524+00:00",
+  "date": "2026-09-24",
+  "updated_at": "2026-09-24T11:29:01.994212+00:00",
   "items": [
     {
       "time": "",
@@ -25,18 +25,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "PR Newswire — M&A",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K/A - IB Acquisition Corp. (0001998781) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1998781/000149315226043952/0001493152-26-043952-index.htm"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     }
   ]
 }
