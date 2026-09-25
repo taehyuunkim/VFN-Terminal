@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "updated_at": "2026-09-25T11:27:27.418709+00:00",
+  "updated_at": "2026-09-25T17:38:02.136470+00:00",
   "items": [
     {
       "time": "",
@@ -158,20 +158,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
-      "summary": "Bond yields have spiked due to expectations of persistent inflation and further interest rate hikes from the Federal Reserve, which may impact auto loan rates.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -207,30 +193,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     },
     {
       "time": "",
@@ -656,20 +618,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
-      "summary": "Bond yields have spiked due to expectations of persistent inflation and further interest rate hikes from the Federal Reserve, which may impact auto loan rates.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -681,6 +629,54 @@
       ],
       "importance": "high",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Premerger Notification Program",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
     }
   ]
 }
