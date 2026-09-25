@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "updated_at": "2026-09-24T22:42:00.784232+00:00",
+  "date": "2026-09-25",
+  "updated_at": "2026-09-25T11:27:27.418709+00:00",
   "items": [
     {
       "time": "",
@@ -132,30 +132,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - PGIM Private Credit Fund (0001923622) (Filer)",
-      "summary": "Filed: 2026-09-24 AccNo: 0001193125-26-401226 Size: 970 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Credit"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1923622/000119312526401226/0001193125-26-401226-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K/A - Banzai International, Inc. (0001826011) (Filer)",
-      "summary": "Filed: 2026-09-24 AccNo: 0001493152-26-044168 Size: 303 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226044168/0001493152-26-044168-index.htm"
-    },
-    {
-      "time": "",
       "source": "The Guardian — Business",
       "headline": "US mortgage rates top 7% for first time in 20 months",
       "summary": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply. The increase comes after the US Federal Reserve hiked interest rates , which directly affect mortgage rates, for the first time since 2023, citing high inflation. Continue reading...",
@@ -255,6 +231,18 @@
       ],
       "importance": "high",
       "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     },
     {
       "time": "",
@@ -487,18 +475,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Getty Images / Shutterstock merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -543,18 +519,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/hays-slash-polka-dot-and-hays-slash-millington-merger-inquiries"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Open Cases",
-      "headline": "Strategic review of CMA markets remedies",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Strategic-review read: separate announced process from actual buyer interest; track adviser engagement, asset perimeter, balance-sheet urgency and any explicit timetable.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/strategic-review-of-cma-markets-remedies"
     },
     {
       "time": "",
@@ -675,6 +639,48 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html"
+    },
+    {
+      "time": "",
+      "source": "CNBC — Top News",
+      "headline": "Rising Treasury yields could push car loan rates higher, experts say. What buyers need to know",
+      "summary": "Bond yields have spiked due to expectations of persistent inflation and further interest rate hikes from the Federal Reserve, which may impact auto loan rates.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/09/24/car-loan-rates-may-rise-as-treasury-yields-climb.html"
+    },
+    {
+      "time": "",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
     }
   ]
 }
