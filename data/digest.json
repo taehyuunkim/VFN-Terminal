@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-25",
-  "updated_at": "2026-09-25T22:45:53.178545+00:00",
+  "date": "2026-09-26",
+  "updated_at": "2026-09-26T11:23:43.572105+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "Financial Times — Companies",
+      "headline": "Airbus offers divestments to secure Brussels backing for space merger",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ft.com/content/6f6c698a-e1eb-4ce0-b4b0-6c54cdd67850?syn-25a6b1a6=1"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -92,6 +104,18 @@
     },
     {
       "time": "",
+      "source": "Financial Times — Companies",
+      "headline": "Airbus offers divestments to secure Brussels backing for space merger",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ft.com/content/6f6c698a-e1eb-4ce0-b4b0-6c54cdd67850?syn-25a6b1a6=1"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -129,6 +153,66 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
+      "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000224 Size: 189 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405513/000207187626000224/0002071876-26-000224-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
+      "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000222 Size: 191 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1405528/000207187626000222/0002071876-26-000222-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
+      "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000221 Size: 192 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1376227/000207187626000221/0002071876-26-000221-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
+      "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000219 Size: 192 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1327068/000207187626000219/0002071876-26-000219-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",
+      "summary": "Filed: 2026-09-25 AccNo: 0002071876-26-000217 Size: 192 KB Item 1.01: Entry into a Material Definitive Agreement",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1472494/000207187626000217/0002071876-26-000217-index.htm"
     },
     {
       "time": "",
@@ -587,92 +671,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/competition-bureau-announces-adjustment-to-merger-review-filing-fee-effective-april-1-2026.html"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Pre-merger Competition Bureau notification threshold to remain at $93M in 2026",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/pre-merger-competition-bureau-notification-threshold-to-remain-at-93m-in-2026.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US mortgage rates top 7% for first time in 20 months",
-      "summary": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply. The increase comes after the US Federal Reserve hiked interest rates , which directly affect mortgage rates, for the first time since 2023, citing high inflation. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
-    },
-    {
-      "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Premerger Notification Program",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     }
   ]
 }
