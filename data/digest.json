@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "updated_at": "2026-09-26T11:23:43.572105+00:00",
+  "updated_at": "2026-09-26T17:35:20.756928+00:00",
   "items": [
     {
       "time": "",
@@ -52,18 +52,6 @@
     },
     {
       "time": "",
-      "source": "Financial Times — Companies",
-      "headline": "Airbus offers divestments to secure Brussels backing for space merger",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ft.com/content/6f6c698a-e1eb-4ce0-b4b0-6c54cdd67850?syn-25a6b1a6=1"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -101,18 +89,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "Financial Times — Companies",
-      "headline": "Airbus offers divestments to secure Brussels backing for space merger",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ft.com/content/6f6c698a-e1eb-4ce0-b4b0-6c54cdd67850?syn-25a6b1a6=1"
     },
     {
       "time": "",
@@ -671,6 +647,30 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/competition-bureau-announces-adjustment-to-merger-review-filing-fee-effective-april-1-2026.html"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Pre-merger Competition Bureau notification threshold to remain at $93M in 2026",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/pre-merger-competition-bureau-notification-threshold-to-remain-at-93m-in-2026.html"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Business",
+      "headline": "US mortgage rates top 7% for first time in 20 months",
+      "summary": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wages US mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rates and low supply. The increase comes after the US Federal Reserve hiked interest rates , which directly affect mortgage rates, for the first time since 2023, citing high inflation. Continue reading...",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
     }
   ]
 }
