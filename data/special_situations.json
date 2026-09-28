@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "updated_at": "2026-09-27T22:43:15.294077+00:00",
+  "date": "2026-09-28",
+  "updated_at": "2026-09-28T11:29:38.099735+00:00",
   "items": [
     {
       "time": "",
@@ -65,62 +65,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - United States 12 Month Natural Gas Fund, LP (0001405513) (Filer)",
+      "company": "8-K - FTAI Infrastructure Inc. (0001899883) (Filer)",
       "event_type": "Filing",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1405513/000207187626000224/0002071876-26-000224-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - United States 12 Month Oil Fund, LP (0001405528) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1405528/000207187626000222/0002071876-26-000222-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - United States Natural Gas Fund, LP (0001376227) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1376227/000207187626000221/0002071876-26-000221-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - United States Oil Fund, LP (0001327068) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1327068/000207187626000219/0002071876-26-000219-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - United States Brent Oil Fund, LP (0001472494) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1472494/000207187626000217/0002071876-26-000217-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/0001140361-26-037763-index.htm"
     },
     {
       "time": "",
@@ -217,6 +169,54 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/gxo-slash-wincanton-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "KONE / TK Elevator merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/kone-slash-tk-elevator-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "ABP / Dovecote Park merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "McCormick / Unilever merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Welltower / multiple care homes merger inquiries",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     }
   ]
 }
