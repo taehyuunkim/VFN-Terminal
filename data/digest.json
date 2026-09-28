@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updated_at": "2026-09-28T17:41:52.915793+00:00",
+  "updated_at": "2026-09-28T22:49:46.820422+00:00",
   "items": [
     {
       "time": "",
@@ -141,6 +141,18 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — World",
+      "headline": "Australia news live: Chalmers says taxes lower than under Howard as cash rate decision due; wife of missing activist urges help",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Police investigating suspicious deaths of two men in northern NSW New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. And that’s equally important in the Reserve Bank’s mandate, dual mandate, which talks about maintaining full employment at the same time as they go for price stability, which means inflation in the target band. Well, it’s still lower than what we saw under Howard and Costello, is the first point. I think that’s pretty clear. And what we’ve seen in recent years is that it’s possible to hav",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb"
     },
     {
       "time": "",
@@ -614,6 +626,18 @@
     },
     {
       "time": "",
+      "source": "The Guardian — World",
+      "headline": "Australia news live: Chalmers says taxes lower than under Howard as cash rate decision due; wife of missing activist urges help",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Police investigating suspicious deaths of two men in northern NSW New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. And that’s equally important in the Reserve Bank’s mandate, dual mandate, which talks about maintaining full employment at the same time as they go for price stability, which means inflation in the target band. Well, it’s still lower than what we saw under Howard and Costello, is the first point. I think that’s pretty clear. And what we’ve seen in recent years is that it’s possible to hav",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb"
+    },
+    {
+      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -649,30 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     }
   ]
 }
