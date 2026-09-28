@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "updated_at": "2026-09-28T11:29:38.099735+00:00",
+  "updated_at": "2026-09-28T17:41:52.916748+00:00",
   "items": [
     {
       "time": "",
@@ -61,18 +61,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "Competition Bureau Canada",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - FTAI Infrastructure Inc. (0001899883) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/0001140361-26-037763-index.htm"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Co-operative Group / Southern Co-operative merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     }
   ]
 }
