@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "updated_at": "2026-09-29T16:53:41.125823+00:00",
+  "updated_at": "2026-09-29T21:28:29.633447+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,30 @@
     },
     {
       "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Spark I Acquisition Corp (0001884046) (Filer)",
+      "summary": "Filed: 2026-09-29 AccNo: 0001104659-26-111988 Size: 360 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1884046/000110465926111988/0001104659-26-111988-index.htm"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "AGS American Glass Services, a portfolio company of The Sterling Group, Acquires Mark Industries",
+      "summary": "OSHKOSH, Wis., Sept. 29, 2026 /PRNewswire/ -- AGS American Glass Services (\"AGS\" or the \"Company\"), a portfolio company of The Sterling Group Foundation Fund (\"Sterling\"), has completed the acquisition of Mark Industries (\"Mark\"), a commercial glazing contractor based in Elgin, IL. Mark...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/ags-american-glass-services-a-portfolio-company-of-the-sterling-group-acquires-mark-industries-302893449.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -89,6 +113,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "AGS American Glass Services, a portfolio company of The Sterling Group, Acquires Mark Industries",
+      "summary": "OSHKOSH, Wis., Sept. 29, 2026 /PRNewswire/ -- AGS American Glass Services (\"AGS\" or the \"Company\"), a portfolio company of The Sterling Group Foundation Fund (\"Sterling\"), has completed the acquisition of Mark Industries (\"Mark\"), a commercial glazing contractor based in Elgin, IL. Mark...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/ags-american-glass-services-a-portfolio-company-of-the-sterling-group-acquires-mark-industries-302893449.html"
     },
     {
       "time": "",
@@ -637,42 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vandemoortele / Délifrance merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "GXO / Wincanton merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/gxo-slash-wincanton-merger-inquiry"
     }
   ]
 }
