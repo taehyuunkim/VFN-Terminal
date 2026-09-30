@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-29",
-  "updated_at": "2026-09-29T21:28:29.634355+00:00",
+  "date": "2026-09-30",
+  "updated_at": "2026-09-30T01:27:09.084622+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "PR Newswire — M&A",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - ONE Nuclear Energy Inc. (0001846416) (Filer)",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226044924/0001493152-26-044924-index.htm"
     },
     {
       "time": "",
@@ -97,6 +109,30 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "FTC — Competition",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "DOJ Antitrust",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "DOJ Antitrust",
+      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
     },
     {
       "time": "",
@@ -181,42 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/kone-slash-tk-elevator-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "ABP / Dovecote Park merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "McCormick / Unilever merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Welltower / multiple care homes merger inquiries",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/welltower-slash-multiple-care-homes-merger-inquiries"
     }
   ]
 }
