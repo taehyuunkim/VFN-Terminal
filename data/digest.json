@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "updated_at": "2026-10-01T17:22:36.970971+00:00",
+  "updated_at": "2026-10-01T21:53:24.546301+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Banner Capital Announces Agreement to Acquire Seaway Plastics Engineering, MME Group, and Wright Engineered Plastics",
+      "summary": "Medical Device Industry Veteran Ron Labrum to Serve as Executive Chairman Upon Closing SALT LAKE CITY, Oct. 1, 2026 /PRNewswire/ -- Banner Capital today announced it has formed Seaway Group and entered into a definitive agreement to acquire the businesses of Seaway Plastics Engineering,...",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/banner-capital-announces-agreement-to-acquire-seaway-plastics-engineering-mme-group-and-wright-engineered-plastics-302896640.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -89,6 +101,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Banner Capital Announces Agreement to Acquire Seaway Plastics Engineering, MME Group, and Wright Engineered Plastics",
+      "summary": "Medical Device Industry Veteran Ron Labrum to Serve as Executive Chairman Upon Closing SALT LAKE CITY, Oct. 1, 2026 /PRNewswire/ -- Banner Capital today announced it has formed Seaway Group and entered into a definitive agreement to acquire the businesses of Seaway Plastics Engineering,...",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/banner-capital-announces-agreement-to-acquire-seaway-plastics-engineering-mme-group-and-wright-engineered-plastics-302896640.html"
     },
     {
       "time": "",
@@ -133,26 +157,28 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Ford Credit Auto Owner Trust 2026-C (0002152109) (Filer)",
-      "summary": "Filed: 2026-10-01 AccNo: 0001104659-26-112721 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - ON SEMICONDUCTOR CORP (0001097864) (Filer)",
+      "summary": "Filed: 2026-10-01 AccNo: 0001140361-26-038294 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Credit"
+        "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2152109/000110465926112721/0001104659-26-112721-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/0001140361-26-038294-index.htm"
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - FORD CREDIT AUTO RECEIVABLES TWO LLC (0001129987) (Filer)",
-      "summary": "Filed: 2026-10-01 AccNo: 0001104659-26-112721 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "source": "The Guardian — Business",
+      "headline": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+      "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading. The threat of a renewed round of inflation from the persistently high cost of oil has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded. Continue reading...",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
-        "Credit"
+        "Macro",
+        "Credit",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1129987/000110465926112721/0001104659-26-112721-index.htm"
+      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
     },
     {
       "time": "",
@@ -590,6 +616,20 @@
     },
     {
       "time": "",
+      "source": "The Guardian — Business",
+      "headline": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+      "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading. The threat of a renewed round of inflation from the persistently high cost of oil has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded. Continue reading...",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+    },
+    {
+      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -637,42 +677,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vodafone / CK Hutchison JV merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
     }
   ]
 }
