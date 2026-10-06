@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-05",
-  "updated_at": "2026-10-05T23:14:14.584017+00:00",
+  "date": "2026-10-06",
+  "updated_at": "2026-10-06T02:26:44.677048+00:00",
   "items": [
     {
       "time": "",
@@ -179,20 +179,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
-    },
-    {
-      "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
     },
     {
       "time": "",
@@ -654,20 +640,6 @@
     },
     {
       "time": "",
-      "source": "Federal Reserve",
-      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
-    },
-    {
-      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -677,6 +649,30 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "DOJ Antitrust",
+      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     }
   ]
 }
