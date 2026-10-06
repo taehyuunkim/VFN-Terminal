@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T02:26:44.677048+00:00",
+  "updated_at": "2026-10-06T17:10:55.471962+00:00",
   "items": [
     {
       "time": "",
@@ -53,38 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Corteva, Inc. (0001755672) (Filer)",
-      "summary": "Filed: 2026-10-05 AccNo: 0001193125-26-414490 Size: 5 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - Warner Bros. Discovery, Inc. (0001437107) (Filer)",
+      "summary": "Filed: 2026-10-06 AccNo: 0001193125-26-415055 Size: 390 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Direct",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1755672/000119312526414490/0001193125-26-414490-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - EIDP, Inc. (0000030554) (Filer)",
-      "summary": "Filed: 2026-10-05 AccNo: 0001193125-26-414490 Size: 5 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/30554/000119312526414490/0001193125-26-414490-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Firy Inc. (0001801661) (Filer)",
-      "summary": "Filed: 2026-10-05 AccNo: 0001801661-26-000106 Size: 3 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1801661/000180166126000106/0001801661-26-000106-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1437107/000119312526415055/0001193125-26-415055-index.htm"
     },
     {
       "time": "",
@@ -182,6 +158,20 @@
     },
     {
       "time": "",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -206,27 +196,15 @@
     },
     {
       "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "source": "UK CMA — Mergers",
+      "headline": "Vandemoortele / Délifrance merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of the Merger of Seismic Software Inc. and Highspot Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-merger-seismic"
+      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
     },
     {
       "time": "",
@@ -335,18 +313,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vandemoortele / Délifrance merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
     },
     {
       "time": "",
@@ -640,6 +606,20 @@
     },
     {
       "time": "",
+      "source": "Federal Reserve",
+      "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+    },
+    {
+      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -664,15 +644,39 @@
     },
     {
       "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
+      "source": "UK CMA — Mergers",
+      "headline": "Vandemoortele / Délifrance merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
+      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "BT / TalkTalk merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
     }
   ]
 }
