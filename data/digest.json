@@ -1,6 +1,6 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T17:10:55.471962+00:00",
+  "updated_at": "2026-10-06T21:45:41.758482+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Warner Bros. Discovery, Inc. (0001437107) (Filer)",
-      "summary": "Filed: 2026-10-06 AccNo: 0001193125-26-415055 Size: 390 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Direct",
+      "headline": "8-K - QuasarEdge Acquisition Corp (0002085177) (Filer)",
+      "summary": "Filed: 2026-10-06 AccNo: 0001829126-26-010821 Size: 310 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1437107/000119312526415055/0001193125-26-415055-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010821/0001829126-26-010821-index.htm"
     },
     {
       "time": "",
@@ -141,20 +141,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-      "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading. The threat of a renewed round of inflation from the persistently high cost of oil has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
     },
     {
       "time": "",
@@ -592,20 +578,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-      "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a frantic day’s trading. The threat of a renewed round of inflation from the persistently high cost of oil has spooked investors on both sides of the Atlantic, with central banks expected to raise interest rates in the coming months to prevent price increases from becoming embedded. Continue reading...",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -677,6 +649,30 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "ABP / Dovecote Park merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
     }
   ]
 }
