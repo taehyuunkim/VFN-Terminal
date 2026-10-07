@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updated_at": "2026-10-07T01:45:27.417793+00:00",
+  "updated_at": "2026-10-07T17:49:00.142393+00:00",
   "items": [
     {
       "time": "",
@@ -52,95 +52,119 @@
     },
     {
       "time": "",
+      "source": "Accesswire",
+      "headline": "Globa Terra Acquisition Corporation Announces Letter of Intent with Nature's Ledger for Proposed Business Combination",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-letter-of-intent-with-1233966"
+    },
+    {
+      "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Globa Terra Acquisition Corporation Announces Letter of Intent with Nature's Ledger for Proposed Business Combination",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-letter-of-intent-with-1233966"
+    },
+    {
+      "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Spreadex / Sporting Index merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - QuasarEdge Acquisition Corp (0002085177) (Filer)",
-      "summary": "Filed: 2026-10-06 AccNo: 0001829126-26-010821 Size: 310 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "headline": "8-K - BANK5 2026-5YR24 (0002148771) (Filer)",
+      "summary": "Filed: 2026-10-07 AccNo: 0001539497-26-002659 Size: 4 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010821/0001829126-26-010821-index.htm"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Spreadex / Sporting Index merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Spreadex / Sporting Index merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/spreadex-slash-sporting-index-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+      "url": "https://www.sec.gov/Archives/edgar/data/2148771/000153949726002659/0001539497-26-002659-index.htm"
     },
     {
       "time": "",
@@ -183,6 +207,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Vandemoortele / Délifrance merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -195,14 +231,26 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
+      "headline": "Healthcare Ireland / Hutchinson Homes merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+      "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -215,6 +263,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -263,18 +323,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -387,18 +435,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "Aramark / Entier merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "FirstCash / Ramsdens merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -419,18 +455,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Healthcare Ireland / Hutchinson Homes merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
     },
     {
       "time": "",
@@ -617,6 +641,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Vandemoortele / Délifrance merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -629,50 +665,14 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
+      "headline": "Healthcare Ireland / Hutchinson Homes merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "BT / TalkTalk merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "ABP / Dovecote Park merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
+      "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
     }
   ]
 }

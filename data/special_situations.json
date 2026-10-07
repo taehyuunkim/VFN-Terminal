@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "updated_at": "2026-10-07T01:45:27.418812+00:00",
+  "updated_at": "2026-10-07T17:49:00.143324+00:00",
   "items": [
     {
       "time": "",
@@ -25,18 +25,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "PR Newswire — M&A",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - QuasarEdge Acquisition Corp (0002085177) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2085177/000182912626010821/0001829126-26-010821-index.htm"
     },
     {
       "time": "",
@@ -77,6 +65,18 @@
     {
       "time": "",
       "ticker": "",
+      "company": "8-K - BANK5 2026-5YR24 (0002148771) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2148771/000153949726002659/0001539497-26-002659-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "Premerger Notification Program",
       "event_type": "M&A",
       "status": "Live",
@@ -101,6 +101,18 @@
     {
       "time": "",
       "ticker": "",
+      "company": "Aramark / Entier merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "Vandemoortele / Délifrance merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -113,14 +125,26 @@
     {
       "time": "",
       "ticker": "",
-      "company": "nexfibre / Substantial merger inquiry",
+      "company": "Healthcare Ireland / Hutchinson Homes merger inquiry",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+      "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Co-operative Group / Southern Co-operative merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -133,6 +157,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "nexfibre / Substantial merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -181,42 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Co-operative Group / Southern Co-operative merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Macquarie Asset Management / Energy Assets Group merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
     }
   ]
 }
