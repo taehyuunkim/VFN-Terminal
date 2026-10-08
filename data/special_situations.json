@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updated_at": "2026-10-08T02:12:55.239882+00:00",
+  "updated_at": "2026-10-08T17:52:47.728764+00:00",
   "items": [
     {
       "time": "",
@@ -89,6 +89,30 @@
     {
       "time": "",
       "ticker": "",
+      "company": "BT / TalkTalk merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "Aramark / Entier merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -137,18 +161,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "BT / TalkTalk merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "nexfibre / Substantial merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -181,18 +193,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     },
     {
       "time": "",

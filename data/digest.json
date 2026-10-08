@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "updated_at": "2026-10-08T02:12:55.238680+00:00",
+  "updated_at": "2026-10-08T17:52:47.727760+00:00",
   "items": [
     {
       "time": "",
@@ -171,6 +171,30 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "BT / TalkTalk merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Aramark / Entier merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -219,18 +243,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "BT / TalkTalk merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "nexfibre / Substantial merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -263,18 +275,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     },
     {
       "time": "",
@@ -459,6 +459,18 @@
     {
       "time": "",
       "source": "European Commission — Mergers",
+      "headline": "Commission fines Kingspan €40 million for providing incorrect and misleading information during merger investigation",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2084"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
       "headline": "Commission sends Statement of Objections over the proposed acquisition of Anglo American's nickel business by MMG",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -479,18 +491,6 @@
       ],
       "importance": "high",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission opens in-depth investigation into proposed merger between Saipem and Subsea7",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1657"
     },
     {
       "time": "",
@@ -605,6 +605,30 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "BT / TalkTalk merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Aramark / Entier merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -649,30 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "BT / TalkTalk merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
