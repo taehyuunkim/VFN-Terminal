@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated_at": "2026-10-09T02:27:06.458449+00:00",
+  "updated_at": "2026-10-09T17:26:37.316390+00:00",
   "items": [
     {
       "time": "",
@@ -52,18 +52,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Digital Asset Acquisition Corp. (0002052162) (Filer)",
-      "summary": "Filed: 2026-10-08 AccNo: 0001213900-26-108077 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2052162/000121390026108077/0001213900-26-108077-index.htm"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -141,18 +129,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Bain Capital Private Credit (0001899017) (Filer)",
-      "summary": "Filed: 2026-10-08 AccNo: 0001193125-26-418095 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Credit"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1899017/000119312526418095/0001193125-26-418095-index.htm"
     },
     {
       "time": "",
@@ -205,6 +181,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     },
     {
       "time": "",
@@ -325,18 +313,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/vodafone-slash-ck-hutchison-jv-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     },
     {
       "time": "",
@@ -657,6 +633,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "BT / TalkTalk merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -677,6 +665,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
     }
   ]
 }
