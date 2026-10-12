@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updated_at": "2026-10-12T01:36:56.139035+00:00",
+  "updated_at": "2026-10-12T20:16:47.415369+00:00",
   "items": [
     {
       "time": "",
@@ -144,20 +144,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Starbucks reportedly exploring Chipotle takeover",
-      "summary": "Move would reunite chief executive Brian Niccol with chain he led before joining coffee company two years ago Starbucks has explored a takeover of Chipotle Mexican Grill, the Financial Times reported on Thursday, in a move that ⁠would reunite chief executive Brian Niccol with the burrito chain he led before joining the coffee giant two years ago. The potential deal comes as restaurant chains wrestle with uncertain demand from inflation-weary ⁠consumers and rising operating costs, prompting ⁠companies to look ​for new avenues of growth while facing pressure to improve profitability. Continue reading...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -193,6 +179,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -265,18 +263,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/healthcare-ireland-slash-hutchinson-homes-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     },
     {
       "time": "",
@@ -485,6 +471,18 @@
     {
       "time": "",
       "source": "European Commission — Mergers",
+      "headline": "Commission opens in-depth investigation into XXXLutz's proposed acquisition of Porta",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2126"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
       "headline": "Commission fines Kingspan €40 million for providing incorrect and misleading information during merger investigation",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -505,18 +503,6 @@
       ],
       "importance": "high",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1877"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Paramount's acquisition of Warner, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663"
     },
     {
       "time": "",
@@ -592,20 +578,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Starbucks reportedly exploring Chipotle takeover",
-      "summary": "Move would reunite chief executive Brian Niccol with chain he led before joining coffee company two years ago Starbucks has explored a takeover of Chipotle Mexican Grill, the Financial Times reported on Thursday, in a move that ⁠would reunite chief executive Brian Niccol with the burrito chain he led before joining the coffee giant two years ago. The potential deal comes as restaurant chains wrestle with uncertain demand from inflation-weary ⁠consumers and rising operating costs, prompting ⁠companies to look ​for new avenues of growth while facing pressure to improve profitability. Continue reading...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger"
-    },
-    {
-      "time": "",
       "source": "Federal Reserve",
       "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
@@ -645,6 +617,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -677,6 +661,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
     }
   ]
 }
