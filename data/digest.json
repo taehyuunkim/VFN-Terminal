@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "updated_at": "2026-10-15T15:36:05.265859+00:00",
+  "updated_at": "2026-10-15T20:26:21.188169+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,54 @@
     },
     {
       "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Frazier Life Sciences Acquisition Corp. II (0002153598) (Filer)",
+      "summary": "Filed: 2026-10-15 AccNo: 0001193125-26-422919 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2153598/000119312526422919/0001193125-26-422919-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - New America Acquisition I Corp. (0002074878) (Filer)",
+      "summary": "Filed: 2026-10-15 AccNo: 0001493152-26-047248 Size: 336 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/2074878/000149315226047248/0001493152-26-047248-index.htm"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "AI Maverick Intel Signs Definitive Agreement to Acquire Heal Access, an Agentic AI Healthcare Platform",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/ai-maverick-intel-signs-definitive-agreement-to-acquire-heal-access-an-agentic-ai-hea-1237053"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "AI Maverick Intel Signs Definitive Agreement to Acquire Heal Access, an Agentic AI Healthcare Platform",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/biotechnology/ai-maverick-intel-signs-definitive-agreement-to-acquire-heal-access-an-agentic-ai-hea-1237053"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -129,18 +177,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Technology",
-      "headline": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
-      "summary": "The company said the platform became \"costly to develop and grow,\" in Monday filings to the Delaware District bankruptcy court.",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
     },
     {
       "time": "",
@@ -590,18 +626,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Technology",
-      "headline": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
-      "summary": "The company said the platform became \"costly to develop and grow,\" in Monday filings to the Delaware District bankruptcy court.",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
-    },
-    {
-      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Why Rates Keep Rising: Expected AI Returns Exceed the Fed Funds Rate",
       "summary": "Open the linked source for the full report.",
@@ -649,30 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     }
   ]
 }
