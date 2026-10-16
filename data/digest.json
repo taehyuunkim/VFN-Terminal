@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T15:22:41.992558+00:00",
+  "updated_at": "2026-10-16T20:00:55.582939+00:00",
   "items": [
     {
       "time": "",
@@ -105,14 +105,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - CUMULUS MEDIA INC (0001058623) (Filer)",
-      "summary": "Filed: 2026-10-16 AccNo: 0001104659-26-116470 Size: 646 KB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 1.03: Bankruptcy or Receivership Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 3.02: Unregistered Sales of Equity Securities Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers ",
+      "headline": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
+      "summary": "Filed: 2026-10-16 AccNo: 0001193125-26-423870 Size: 296 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1058623/000110465926116470/0001104659-26-116470-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526423870/0001193125-26-423870-index.htm"
     },
     {
       "time": "",
@@ -163,30 +163,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of Arrive AS’s Proposed Acquisition of Passport Labs Inc.",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-arrive-ass"
-    },
-    {
-      "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "KKR Agrees to Pay Record $250M Penalty for Serial Violations of Federal Premerger Review Law",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/kkr-agrees-pay-record-250m-penalty-serial-violations-federal-premerger-review-law"
     },
     {
       "time": "",
@@ -660,15 +636,39 @@
     },
     {
       "time": "",
-      "source": "DOJ Antitrust",
-      "headline": "Statement of the Department of Justice Antitrust Division on the Closing of Its Investigation of Arrive AS’s Proposed Acquisition of Passport Labs Inc.",
+      "source": "UK CMA — Mergers",
+      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.justice.gov/opa/pr/statement-department-justice-antitrust-division-closing-its-investigation-arrive-ass"
+      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "RedBird IMI / Telegraph Media Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/redbird-imi-slash-telegraph-media-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     }
   ]
 }
