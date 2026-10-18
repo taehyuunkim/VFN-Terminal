@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "updated_at": "2026-10-17T19:37:45.491940+00:00",
+  "date": "2026-10-18",
+  "updated_at": "2026-10-18T00:12:43.503497+00:00",
   "items": [
     {
       "time": "",
@@ -49,18 +49,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - SPACSphere Acquisition Corp. (0002081300) (Filer)",
-      "summary": "Filed: 2026-10-15 AccNo: 0001193125-26-423032 Size: 252 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2081300/000119312526423032/0001193125-26-423032-index.htm"
     },
     {
       "time": "",
@@ -669,6 +657,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "RedBird IMI / Telegraph Media Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/redbird-imi-slash-telegraph-media-group-merger-inquiry"
     }
   ]
 }
