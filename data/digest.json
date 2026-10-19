@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-18",
-  "updated_at": "2026-10-18T19:30:48.009693+00:00",
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T00:24:02.013951+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,30 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "OpenWorld (NASDAQ:OPNW) Signs Definitive Merger Agreement to Acquire Blocksight",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/openworld-nasdaq-opnw-signs-definitive-merger-agreement-to-acquire-bl-1238209"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "OpenWorld (NASDAQ:OPNW) Signs Definitive Merger Agreement to Acquire Blocksight",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/blockchain-and-cryptocurrency/openworld-nasdaq-opnw-signs-definitive-merger-agreement-to-acquire-bl-1238209"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "RedBird IMI / Telegraph Media Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/redbird-imi-slash-telegraph-media-group-merger-inquiry"
     }
   ]
 }
