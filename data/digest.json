@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "updated_at": "2026-10-20T15:39:55.038957+00:00",
+  "updated_at": "2026-10-20T20:44:52.185637+00:00",
   "items": [
     {
       "time": "",
@@ -49,18 +49,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Alpha Star Acquisition Corp (0001865111) (Filer)",
-      "summary": "Filed: 2026-10-14 AccNo: 0001493152-26-046953 Size: 252 KB Item 1.01: Entry into a Material Definitive Agreement Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226046953/0001493152-26-046953-index.htm"
     },
     {
       "time": "",
@@ -669,6 +657,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Intersurgical / Teleflex (Acute Care and Interventional Urology businesses) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/intersurgical-slash-teleflex-acute-care-and-interventional-urology-businesses-merger-inquiry"
     }
   ]
 }
