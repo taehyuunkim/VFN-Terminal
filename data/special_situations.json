@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T15:56:56.775497+00:00",
+  "updated_at": "2026-10-21T20:47:36.124488+00:00",
   "items": [
     {
       "time": "",
@@ -29,14 +29,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
+      "company": "8-K - TCGX Acquisition Corp. (0002137965) (Filer)",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526424754/0001193125-26-424754-index.htm"
     },
     {
       "time": "",
@@ -53,14 +53,38 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+      "company": "8-K - FORD CREDIT FLOORPLAN MASTER OWNER TRUST A (0001159408) (Filer)",
       "event_type": "Filing",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926116769/0001104659-26-116769-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - FORD CREDIT FLOORPLAN LLC (0001061198) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926116769/0001104659-26-116769-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - Ford Credit Floorplan Corp (0000872471) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/872471/000110465926116769/0001104659-26-116769-index.htm"
     },
     {
       "time": "",
@@ -193,30 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Aramark / Entier merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Vandemoortele / Délifrance merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/vandemoortele-slash-delifrance-merger-inquiry"
     }
   ]
 }

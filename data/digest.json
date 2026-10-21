@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T15:56:56.774533+00:00",
+  "updated_at": "2026-10-21T20:47:36.123512+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,38 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
-      "summary": "Filed: 2026-10-21 AccNo: 0001193125-26-427316 Size: 2 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - TCGX Acquisition Corp. (0002137965) (Filer)",
+      "summary": "Filed: 2026-10-19 AccNo: 0001193125-26-424754 Size: 6 MB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/2137965/000119312526424754/0001193125-26-424754-index.htm"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio to Reach New Audiences",
+      "summary": "Acquisition follows a successful partnership between the two companies and advances Bose's evolution into a multi-brand products and technology company FRAMINGHAM, Mass. and PARK CITY, Utah, Oct. 21, 2026 /PRNewswire/ -- Bose Corporation, a global leader in audio innovation and research,...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio-to-reach-new-audiences-302915875.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Bose Corporation Acquires Skullcandy, Expanding Its Consumer Audio Portfolio to Reach New Audiences",
+      "summary": "Acquisition follows a successful partnership between the two companies and advances Bose's evolution into a multi-brand products and technology company FRAMINGHAM, Mass. and PARK CITY, Utah, Oct. 21, 2026 /PRNewswire/ -- Bose Corporation, a global leader in audio innovation and research,...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/bose-corporation-acquires-skullcandy-expanding-its-consumer-audio-portfolio-to-reach-new-audiences-302915875.html"
     },
     {
       "time": "",
@@ -89,14 +113,38 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Banzai International, Inc. (0001826011) (Filer)",
-      "summary": "Filed: 2026-10-21 AccNo: 0001437749-26-033069 Size: 312 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.03: Material Modifications to Rights of Security Holders Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - FORD CREDIT FLOORPLAN MASTER OWNER TRUST A (0001159408) (Filer)",
+      "summary": "Filed: 2026-10-19 AccNo: 0001104659-26-116769 Size: 622 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1159408/000110465926116769/0001104659-26-116769-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - FORD CREDIT FLOORPLAN LLC (0001061198) (Filer)",
+      "summary": "Filed: 2026-10-19 AccNo: 0001104659-26-116769 Size: 622 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Credit"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/1061198/000110465926116769/0001104659-26-116769-index.htm"
+    },
+    {
+      "time": "",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Ford Credit Floorplan Corp (0000872471) (Filer)",
+      "summary": "Filed: 2026-10-19 AccNo: 0001104659-26-116769 Size: 622 KB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Credit"
+      ],
+      "importance": "high",
+      "url": "https://www.sec.gov/Archives/edgar/data/872471/000110465926116769/0001104659-26-116769-index.htm"
     },
     {
       "time": "",
@@ -617,54 +665,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "RedBird IMI / Telegraph Media Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/redbird-imi-slash-telegraph-media-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     }
   ]
 }
