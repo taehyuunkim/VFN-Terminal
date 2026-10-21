@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T00:48:51.563510+00:00",
+  "updated_at": "2026-10-21T15:56:56.775497+00:00",
   "items": [
     {
       "time": "",
@@ -29,6 +29,18 @@
     {
       "time": "",
       "ticker": "",
+      "company": "8-K - SMITH & WESSON BRANDS, INC. (0001092796) (Filer)",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1092796/000119312526427316/0001193125-26-427316-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Revi",
       "event_type": "M&A",
       "status": "Live",
@@ -41,26 +53,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "Competition Bureau Canada",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - Healthcare AI Acquisition Corp. (0001848861) (Filer)",
-      "event_type": "M&A",
+      "company": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+      "event_type": "Filing",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1848861/000147793226006353/0001477932-26-006353-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1826011/000143774926033069/0001437749-26-033069-index.htm"
     },
     {
       "time": "",
@@ -89,14 +89,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "FTC Order Preserves Competition in Digital Advertising Ecosystem as Part of Publicis’s Acquisition o",
+      "company": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "FTC — Competition",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp"
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
     },
     {
       "time": "",
