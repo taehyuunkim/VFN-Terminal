@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "updated_at": "2026-10-22T00:51:11.667702+00:00",
+  "updated_at": "2026-10-22T15:52:42.307881+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Drugs Made In America Acquisition Corp. (0002028614) (Filer)",
-      "summary": "Filed: 2026-10-21 AccNo: 0001213900-26-111421 Size: 304 KB Item 1.01: Entry into a Material Definitive Agreement Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - NightFood Holdings, Inc. (0001593001) (Filer)",
+      "summary": "Filed: 2026-10-22 AccNo: 0001493152-26-048032 Size: 441 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 7.01: Regulation FD Disclosure Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2028614/000121390026111421/0001213900-26-111421-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1593001/000149315226048032/0001493152-26-048032-index.htm"
     },
     {
       "time": "",
@@ -100,15 +100,15 @@
     },
     {
       "time": "",
-      "source": "NPR — Business",
-      "headline": "What this bankruptcy says about AI startups",
-      "summary": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for bankruptcy. Here's what to know.",
+      "source": "The Guardian — Technology",
+      "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+      "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate Investors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX . But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He re",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups"
+      "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
     },
     {
       "time": "",
@@ -175,7 +175,7 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "Intersurgical / Teleflex (Acute Care and Interventional Urology businesses) merger inquiry",
+      "headline": "Intersurgical / Teleflex (acute care and interventional urology businesses) merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
@@ -510,15 +510,15 @@
     },
     {
       "time": "",
-      "source": "NPR — Business",
-      "headline": "What this bankruptcy says about AI startups",
-      "summary": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for bankruptcy. Here's what to know.",
+      "source": "The Guardian — Technology",
+      "headline": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+      "summary": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate Investors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX . But they didn’t glean further information after the company announced there would be no questions on the matter. “With regard to a potential merger with SpaceX, I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He re",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups"
+      "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
     },
     {
       "time": "",
@@ -585,7 +585,7 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "Intersurgical / Teleflex (Acute Care and Interventional Urology businesses) merger inquiry",
+      "headline": "Intersurgical / Teleflex (acute care and interventional urology businesses) merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
