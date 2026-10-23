@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "updated_at": "2026-10-23T15:44:18.888924+00:00",
+  "updated_at": "2026-10-23T20:32:20.848617+00:00",
   "items": [
     {
       "time": "",
@@ -53,26 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Bolt Biotherapeutics, Inc. (0001641281) (Filer)",
-      "summary": "Filed: 2026-10-23 AccNo: 0001193125-26-429647 Size: 12 MB Item 1.01: Entry into a Material Definitive Agreement Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - Iris Acquisition Corp II (0002077785) (Filer)",
+      "summary": "Filed: 2026-10-23 AccNo: 0001185185-26-004972 Size: 297 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1641281/000119312526429647/0001193125-26-429647-index.htm"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Arcosa, Inc. (0001739445) (Filer)",
-      "summary": "Filed: 2026-10-23 AccNo: 0001140361-26-040596 Size: 299 KB Item 1.02: Termination of a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.01: Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing Item 3.03: Material Modifications to Rights of Security Holders Item 5.01: Changes in Control of Registrant Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 9.01: ",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1739445/000114036126040596/0001140361-26-040596-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/2077785/000118518526004972/0001185185-26-004972-index.htm"
     },
     {
       "time": "",
@@ -125,18 +113,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Tesla and SpaceX explore merger as Elon Musk gives backing",
-      "summary": "Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report on Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle company, Tesla. He said both companies had created special committees to explore a potential merger, but have not reached any agreement on terms of a transaction. “Both SpaceX and Tesla have formed special committees to discuss this idea at the request of shareholders and these special committees are, uh, consist of independent directors,” Musk said on the call. “Becaus",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report"
     },
     {
       "time": "",
@@ -598,18 +574,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Tesla and SpaceX explore merger as Elon Musk gives backing",
-      "summary": "Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report on Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle company, Tesla. He said both companies had created special committees to explore a potential merger, but have not reached any agreement on terms of a transaction. “Both SpaceX and Tesla have formed special committees to discuss this idea at the request of shareholders and these special committees are, uh, consist of independent directors,” Musk said on the call. “Becaus",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report"
-    },
-    {
-      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Why Rates Keep Rising: Expected AI Returns Exceed the Fed Funds Rate",
       "summary": "Open the linked source for the full report.",
@@ -669,6 +633,42 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Intersurgical / Teleflex (acute care and interventional urology businesses) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/intersurgical-slash-teleflex-acute-care-and-interventional-urology-businesses-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "BT / TalkTalk merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
     }
   ]
 }
