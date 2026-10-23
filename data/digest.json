@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "updated_at": "2026-10-22T20:38:36.516565+00:00",
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23T00:53:33.238589+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "Accesswire",
+      "headline": "Intelligent Protection Management Corp. Signs Definitive Agreement to Acquire Advanced Technology Distributors Business",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/intelligent-protection-management-corp.-signs-definitive-agreemen-1240142"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -75,6 +87,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Intelligent Protection Management Corp. Signs Definitive Agreement to Acquire Advanced Technology Distributors Business",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/intelligent-protection-management-corp.-signs-definitive-agreemen-1240142"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
