@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "updated_at": "2026-10-25T00:30:17.953454+00:00",
+  "updated_at": "2026-10-25T14:57:44.941152+00:00",
   "items": [
     {
       "time": "",
@@ -143,20 +143,6 @@
       ],
       "importance": "high",
       "url": "https://www.sec.gov/Archives/edgar/data/1563568/000143774926033434/0001437749-26-033434-index.htm"
-    },
-    {
-      "time": "",
-      "source": "Apollo — The Daily Spark",
-      "headline": "Why Rates Keep Rising: Expected AI Returns Exceed the Fed Funds Rate",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/why-rates-keep-rising-expected-ai-returns-exceed-the-fed-funds-rate"
     },
     {
       "time": "",
@@ -604,20 +590,6 @@
     },
     {
       "time": "",
-      "source": "Apollo — The Daily Spark",
-      "headline": "Why Rates Keep Rising: Expected AI Returns Exceed the Fed Funds Rate",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/why-rates-keep-rising-expected-ai-returns-exceed-the-fed-funds-rate"
-    },
-    {
-      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -675,6 +647,30 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/intersurgical-slash-teleflex-acute-care-and-interventional-urology-businesses-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "BT / TalkTalk merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
     }
   ]
 }
