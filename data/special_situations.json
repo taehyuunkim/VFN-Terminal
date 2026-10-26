@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "updated_at": "2026-10-26T17:20:50.871686+00:00",
+  "updated_at": "2026-10-26T21:43:12.933586+00:00",
   "items": [
     {
       "time": "",
@@ -17,18 +17,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - FF EAI Robotics Ecosystem Inc. (0001460702) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226048447/0001493152-26-048447-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "Restructuring & Recapitalization",
       "event_type": "Restructuring",
       "status": "Live",
@@ -41,14 +29,14 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - NATHANS FAMOUS, INC. (0000069733) (Filer)",
+      "company": "8-K - Bold Eagle Acquisition Corp. (0001852207) (Filer)",
       "event_type": "M&A",
       "status": "Live",
       "signal": "NEW",
       "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/69733/000110465926118639/0001104659-26-118639-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112559/0001213900-26-112559-index.htm"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Aramark / Entier merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
     }
   ]
 }
