@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "updated_at": "2026-10-28T17:12:55.852420+00:00",
+  "updated_at": "2026-10-28T21:46:15.457004+00:00",
   "items": [
     {
       "time": "",
@@ -52,18 +52,6 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Bold Eagle Acquisition Corp. (0001852207) (Filer)",
-      "summary": "Filed: 2026-10-26 AccNo: 0001213900-26-112559 Size: 295 KB Item 1.01: Entry into a Material Definitive Agreement Item 3.02: Unregistered Sales of Equity Securities Item 3.03: Material Modifications to Rights of Security Holders Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1852207/000121390026112559/0001213900-26-112559-index.htm"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -116,15 +104,41 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Fed set to hold interest rates steady in last decision before midterms",
-      "summary": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald Trump The US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years. Last month, Fed officials raised rates for the first time since 2023, citing rising inflation. Inflation has hovered for years above the Fed’s target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%. Continue reading...",
+      "source": "CNBC — Top News",
+      "headline": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+    },
+    {
+      "time": "",
+      "source": "NYT — Business",
+      "headline": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+      "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
+    },
+    {
+      "time": "",
+      "source": "NPR — Business",
+      "headline": "Fed holds interest rates steady even as inflation remains stubborn",
+      "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
     },
     {
       "time": "",
@@ -149,18 +163,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "FTC Bureau of Competition Statement on Termination of PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-bureau-competition-statement-termination-playpowers-acquisition-rival-playground-manufacturer"
     },
     {
       "time": "",
@@ -584,15 +586,41 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "Fed set to hold interest rates steady in last decision before midterms",
-      "summary": "US central bank last month raised rates for first time since 2023, in move that infuriated Donald Trump The US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years. Last month, Fed officials raised rates for the first time since 2023, citing rising inflation. Inflation has hovered for years above the Fed’s target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%. Continue reading...",
+      "source": "CNBC — Top News",
+      "headline": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+      "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro",
+        "Credit",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+    },
+    {
+      "time": "",
+      "source": "NYT — Business",
+      "headline": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+      "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
       "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
       "asset_classes": [
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
+    },
+    {
+      "time": "",
+      "source": "NPR — Business",
+      "headline": "Fed holds interest rates steady even as inflation remains stubborn",
+      "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
     },
     {
       "time": "",
@@ -620,18 +648,6 @@
     },
     {
       "time": "",
-      "source": "FTC — Competition",
-      "headline": "FTC Bureau of Competition Statement on Termination of PlayPower’s Acquisition of Rival Playground Manufacturer Burke",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-bureau-competition-statement-termination-playpowers-acquisition-rival-playground-manufacturer"
-    },
-    {
-      "time": "",
       "source": "UK CMA — Mergers",
       "headline": "Aramark / Entier merger inquiry",
       "summary": "Open the linked source for the full report.",
@@ -653,18 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Prologis / SEGRO merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/prologis-slash-segro-merger-inquiry"
     }
   ]
 }
