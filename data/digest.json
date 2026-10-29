@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-28",
-  "updated_at": "2026-10-28T21:46:15.457004+00:00",
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29T01:55:21.936227+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "JELD-WEN Announces Commencement of Exchange Offer and Consent Solicitation for Outstanding 4.875% Senior Notes due 2027",
+      "summary": "CHARLOTTE, N.C., Oct. 28, 2026 /PRNewswire/ -- JELD-WEN Holding, Inc. (NYSE: JELD) (\"JELD-WEN\" or the \"Company\") today announced that JELD-WEN, Inc. (the \"Issuer\") commenced an offer to (x) all Eligible Holders (as defined herein) of the Issuer's outstanding 4.875% Senior Notes due 2027...",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/jeld-wen-announces-commencement-of-exchange-offer-and-consent-solicitation-for-outstanding-4-875-senior-notes-due-2027--302922943.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -75,6 +87,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "JELD-WEN Announces Commencement of Exchange Offer and Consent Solicitation for Outstanding 4.875% Senior Notes due 2027",
+      "summary": "CHARLOTTE, N.C., Oct. 28, 2026 /PRNewswire/ -- JELD-WEN Holding, Inc. (NYSE: JELD) (\"JELD-WEN\" or the \"Company\") today announced that JELD-WEN, Inc. (the \"Issuer\") commenced an offer to (x) all Eligible Holders (as defined herein) of the Issuer's outstanding 4.875% Senior Notes due 2027...",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/jeld-wen-announces-commencement-of-exchange-offer-and-consent-solicitation-for-outstanding-4-875-senior-notes-due-2027--302922943.html"
     },
     {
       "time": "",
@@ -126,7 +150,7 @@
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
     },
     {
       "time": "",
@@ -608,7 +632,7 @@
         "Macro"
       ],
       "importance": "high",
-      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed"
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Aramark / Entier merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     }
   ]
 }
