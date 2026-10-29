@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T01:55:21.937063+00:00",
+  "updated_at": "2026-10-29T17:25:28.610378+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "PR Newswire — M&A",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "8-K - Rising Dragon Acquisition Corp. (0002018145) (Filer)",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2018145/000121390026113621/0001213900-26-113621-index.htm"
     },
     {
       "time": "",
@@ -73,6 +85,30 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "FTC — Competition",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "ABP / Dovecote Park merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Peoplesafe / SoloProtect merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/peoplesafe-slash-soloprotect-merger-inquiry"
     },
     {
       "time": "",
@@ -181,42 +217,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "RedBird IMI / Telegraph Media Group merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/redbird-imi-slash-telegraph-media-group-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "Co-operative Group / Southern Co-operative merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     }
   ]
 }

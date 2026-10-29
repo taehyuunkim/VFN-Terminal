@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T01:55:21.936227+00:00",
+  "updated_at": "2026-10-29T17:25:28.609515+00:00",
   "items": [
     {
       "time": "",
@@ -52,15 +52,27 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "JELD-WEN Announces Commencement of Exchange Offer and Consent Solicitation for Outstanding 4.875% Senior Notes due 2027",
-      "summary": "CHARLOTTE, N.C., Oct. 28, 2026 /PRNewswire/ -- JELD-WEN Holding, Inc. (NYSE: JELD) (\"JELD-WEN\" or the \"Company\") today announced that JELD-WEN, Inc. (the \"Issuer\") commenced an offer to (x) all Eligible Holders (as defined herein) of the Issuer's outstanding 4.875% Senior Notes due 2027...",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "source": "SEC / 8-K",
+      "headline": "8-K - Rising Dragon Acquisition Corp. (0002018145) (Filer)",
+      "summary": "Filed: 2026-10-29 AccNo: 0001213900-26-113621 Size: 330 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/jeld-wen-announces-commencement-of-exchange-offer-and-consent-solicitation-for-outstanding-4-875-senior-notes-due-2027--302922943.html"
+      "url": "https://www.sec.gov/Archives/edgar/data/2018145/000121390026113621/0001213900-26-113621-index.htm"
+    },
+    {
+      "time": "",
+      "source": "BBC — World",
+      "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "time": "",
@@ -90,15 +102,15 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "JELD-WEN Announces Commencement of Exchange Offer and Consent Solicitation for Outstanding 4.875% Senior Notes due 2027",
-      "summary": "CHARLOTTE, N.C., Oct. 28, 2026 /PRNewswire/ -- JELD-WEN Holding, Inc. (NYSE: JELD) (\"JELD-WEN\" or the \"Company\") today announced that JELD-WEN, Inc. (the \"Issuer\") commenced an offer to (x) all Eligible Holders (as defined herein) of the Issuer's outstanding 4.875% Senior Notes due 2027...",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "source": "BBC — World",
+      "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/jeld-wen-announces-commencement-of-exchange-offer-and-consent-solicitation-for-outstanding-4-875-senior-notes-due-2027--302922943.html"
+      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "time": "",
@@ -125,20 +137,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Top News",
-      "headline": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-      "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
     },
     {
       "time": "",
@@ -187,6 +185,30 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "ABP / Dovecote Park merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Peoplesafe / SoloProtect merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/peoplesafe-slash-soloprotect-merger-inquiry"
     },
     {
       "time": "",
@@ -359,18 +381,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "ABP / Dovecote Park merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Vodafone / CK Hutchison JV merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -475,18 +485,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/schlumberger-slash-championx-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Paramount / Warner Bros. Discovery merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/paramount-slash-warner-bros-discovery-merger-inquiry"
     },
     {
       "time": "",
@@ -610,20 +608,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-      "summary": "Treasury yields edged higher as traders await the Federal Reserve's latest monetary policy decision.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
-    },
-    {
-      "time": "",
       "source": "NYT — Business",
       "headline": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
       "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
@@ -669,6 +653,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "ABP / Dovecote Park merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
     }
   ]
 }
