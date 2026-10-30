@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30T02:06:40.417159+00:00",
+  "updated_at": "2026-10-30T17:00:58.214038+00:00",
   "items": [
     {
       "time": "",
@@ -52,15 +52,29 @@
     },
     {
       "time": "",
-      "source": "BBC — World",
-      "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
     },
     {
       "time": "",
@@ -90,53 +104,27 @@
     },
     {
       "time": "",
-      "source": "BBC — World",
-      "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "source": "SEC / 8-K",
+      "headline": "8-K - BANK5 2026-5YR24 (0002148771) (Filer)",
+      "summary": "Filed: 2026-10-30 AccNo: 0001539497-26-002807 Size: 5 MB Item 1.01: Entry into a Material Definitive Agreement Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.sec.gov/Archives/edgar/data/2148771/000153949726002807/0001539497-26-002807-index.htm"
     },
     {
       "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "source": "The Guardian — World",
+      "headline": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+      "summary": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "NYT — Business",
-      "headline": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
-      "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
+      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
     },
     {
       "time": "",
@@ -596,15 +584,15 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
-      "headline": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
-      "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "source": "The Guardian — World",
+      "headline": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+      "summary": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Macro"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html"
+      "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
     },
     {
       "time": "",
@@ -665,6 +653,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/peoplesafe-slash-soloprotect-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
     }
   ]
 }
