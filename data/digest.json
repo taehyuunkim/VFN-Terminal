@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "updated_at": "2026-10-30T21:37:35.662075+00:00",
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T01:45:30.682409+00:00",
   "items": [
     {
       "time": "",
@@ -64,6 +64,18 @@
     },
     {
       "time": "",
+      "source": "Accesswire",
+      "headline": "Revolve Enters into Definitive Agreement to Acquire Three Project, 6 MW Battery Storage Portfolio in Ontario",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/revolve-enters-into-definitive-agreement-to-acquire-three-project-6-mw-battery-sto-1244770"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -87,6 +99,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Revolve Enters into Definitive Agreement to Acquire Three Project, 6 MW Battery Storage Portfolio in Ontario",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/revolve-enters-into-definitive-agreement-to-acquire-three-project-6-mw-battery-sto-1244770"
     },
     {
       "time": "",
@@ -125,18 +149,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
-    },
-    {
-      "time": "",
-      "source": "NPR — Business",
-      "headline": "Fed holds interest rates steady even as inflation remains stubborn",
-      "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
     },
     {
       "time": "",
@@ -593,18 +605,6 @@
       ],
       "importance": "high",
       "url": "https://www.theguardian.com/world/2026/oct/30/cost-of-living-protests-to-spread-to-germany-and-reignite-in-france-on-halloween"
-    },
-    {
-      "time": "",
-      "source": "NPR — Business",
-      "headline": "Fed holds interest rates steady even as inflation remains stubborn",
-      "summary": "The Federal Reserve opted to leave its benchmark interest rate unchanged — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro"
-      ],
-      "importance": "high",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
     },
     {
       "time": "",
