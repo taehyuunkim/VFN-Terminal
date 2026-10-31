@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "updated_at": "2026-10-31T01:45:30.682409+00:00",
+  "updated_at": "2026-10-31T16:04:25.916888+00:00",
   "items": [
     {
       "time": "",
@@ -64,18 +64,6 @@
     },
     {
       "time": "",
-      "source": "Accesswire",
-      "headline": "Revolve Enters into Definitive Agreement to Acquire Three Project, 6 MW Battery Storage Portfolio in Ontario",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/revolve-enters-into-definitive-agreement-to-acquire-three-project-6-mw-battery-sto-1244770"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -99,18 +87,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "Accesswire",
-      "headline": "Revolve Enters into Definitive Agreement to Acquire Three Project, 6 MW Battery Storage Portfolio in Ontario",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/clean-technology/revolve-enters-into-definitive-agreement-to-acquire-three-project-6-mw-battery-sto-1244770"
     },
     {
       "time": "",
@@ -142,7 +118,7 @@
       "time": "",
       "source": "The Guardian — World",
       "headline": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-      "summary": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
+      "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
         "Credit"
@@ -598,7 +574,7 @@
       "time": "",
       "source": "The Guardian — World",
       "headline": "Cost of living protests to spread to Germany and reignite in France on Halloween",
-      "summary": "Activists call for people to make their anger known over poor public services including education and housing Europe live – latest updates Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
+      "summary": "Activists call for people to make their anger known over poor public services including education and housing Street protests sweeping Europe are expected to spread to Germany and reignite in France on Saturday, with police mobilised to stop potential looting and rioting on the fringes of what organisers hope will be peaceful rallies. Weeks of, at times violent, student demonstrations have rocked Italy, Spain, Portugal, Albania and France, where activists on Halloween have again called for people to make their anger over the cost of living and deficient public services felt across the country. Continue reading...",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
         "Credit"
@@ -665,6 +641,30 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Prologis / SEGRO merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/prologis-slash-segro-merger-inquiry"
     }
   ]
 }
