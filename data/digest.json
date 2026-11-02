@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "updated_at": "2026-11-01T21:18:29.889706+00:00",
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T01:43:43.793552+00:00",
   "items": [
     {
       "time": "",
@@ -53,14 +53,14 @@
     {
       "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Zoned Properties, Inc. (0001279620) (Filer)",
-      "summary": "Filed: 2026-10-30 AccNo: 0001213900-26-114508 Size: 869 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.03: Material Modifications to Rights of Security Holders Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
+      "headline": "8-K - ECOMINAS CORP. (0001115864) (Filer)",
+      "summary": "Filed: 2026-10-27 AccNo: 0001477932-26-006474 Size: 480 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1279620/000121390026114508/0001213900-26-114508-index.htm"
+      "url": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226006474/0001477932-26-006474-index.htm"
     },
     {
       "time": "",
@@ -113,21 +113,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Everything changed for the oil, AI and bond trades over the past month",
-      "summary": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html"
     },
     {
       "time": "",
@@ -575,21 +560,6 @@
     },
     {
       "time": "",
-      "source": "CNBC — Top News",
-      "headline": "Everything changed for the oil, AI and bond trades over the past month",
-      "summary": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html"
-    },
-    {
-      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -671,6 +641,30 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/prologis-slash-segro-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "FirstCash / Ramsdens merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
     }
   ]
 }
