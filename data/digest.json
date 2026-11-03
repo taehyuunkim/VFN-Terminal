@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03T18:25:02.487608+00:00",
+  "updated_at": "2026-11-03T22:25:02.223006+00:00",
   "items": [
     {
       "time": "",
@@ -101,18 +101,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "SEC / 425",
-      "headline": "425 - Starlink AI Acquisition Corp (0002094076) (Subject)",
-      "summary": "Filed: 2026-11-03 AccNo: 0001493152-26-049655 Size: 1 MB",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2094076/000149315226049655/0001493152-26-049655-index.htm"
     },
     {
       "time": "",
@@ -665,6 +653,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
