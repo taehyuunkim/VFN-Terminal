@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated_at": "2026-11-04T18:38:05.270310+00:00",
+  "updated_at": "2026-11-04T22:43:20.997585+00:00",
   "items": [
     {
       "time": "",
@@ -52,18 +52,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Nexxus Capital Strengthens Market Position with Latest E-Commerce Acquisition",
-      "summary": "CLEARWATER, Fla., Nov. 4, 2026 /PRNewswire/ -- Nexxus Capital, LLC, a premier e-commerce acquirer and operations company, today officially announced the finalization of a multi-stage transaction originally completed in April 2026. This milestone marks the successful acquisition and...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/nexxus-capital-strengthens-market-position-with-latest-e-commerce-acquisition-302929597.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -90,18 +78,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Nexxus Capital Strengthens Market Position with Latest E-Commerce Acquisition",
-      "summary": "CLEARWATER, Fla., Nov. 4, 2026 /PRNewswire/ -- Nexxus Capital, LLC, a premier e-commerce acquirer and operations company, today officially announced the finalization of a multi-stage transaction originally completed in April 2026. This milestone marks the successful acquisition and...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/nexxus-capital-strengthens-market-position-with-latest-e-commerce-acquisition-302929597.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -125,21 +101,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress – as it happened",
-      "summary": "European shares also power ahead as markets react to blue wave in US midterm elections And Chris Turner , global head of markets at ING, says: Investors will be parsing what this all means. For example, Gina Hinojosa won the Texas governor’s race on a ticket of wanting an immediate moratorium on data centre buildouts. Given AI’s role in powering the US economy, speculation over whether a new Democrat Congress would slow AI capital expenditure plans briefly hit markets. The chip exporter-heavy stock markets of Korea and Taiwan were briefly down 3-4% overnight on news of the blue wave, but have since recouped all those losses. For bond investor",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates"
     },
     {
       "time": "",
@@ -613,21 +574,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Business",
-      "headline": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress – as it happened",
-      "summary": "European shares also power ahead as markets react to blue wave in US midterm elections And Chris Turner , global head of markets at ING, says: Investors will be parsing what this all means. For example, Gina Hinojosa won the Texas governor’s race on a ticket of wanting an immediate moratorium on data centre buildouts. Given AI’s role in powering the US economy, speculation over whether a new Democrat Congress would slow AI capital expenditure plans briefly hit markets. The chip exporter-heavy stock markets of Korea and Taiwan were briefly down 3-4% overnight on news of the blue wave, but have since recouped all those losses. For bond investor",
-      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
-      "asset_classes": [
-        "Macro",
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates"
-    },
-    {
-      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -675,6 +621,54 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "ABP / Dovecote Park merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Peoplesafe / SoloProtect merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/peoplesafe-slash-soloprotect-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Aramark / Entier merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     }
   ]
 }
