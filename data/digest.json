@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T17:56:53.961779+00:00",
+  "updated_at": "2026-11-06T22:12:29.355032+00:00",
   "items": [
     {
       "time": "",
@@ -52,6 +52,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Cognizant Completes Acquisition of Wizeline",
+      "summary": "Expanding Digital Engineering and Product Development Capabilities for Enterprise Clients TEANECK, N.J., Nov. 6, 2026 /PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced that it has acquired Wizeline, a global AI-native digital engineering and product development services firm...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -78,6 +90,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Cognizant Completes Acquisition of Wizeline",
+      "summary": "Expanding Digital Engineering and Product Development Capabilities for Enterprise Clients TEANECK, N.J., Nov. 6, 2026 /PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced that it has acquired Wizeline, a global AI-native digital engineering and product development services firm...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -104,15 +128,17 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
-      "summary": "Filed: 2026-11-06 AccNo: 0001437749-26-035428 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+      "source": "The Guardian — Technology",
+      "headline": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort, Amsterdam, where some members climbed a crane, lit flares and tied helium balloons to equipment. Continue reading...",
       "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Credit"
+        "Credit",
+        "Equity",
+        "Cross-Asset"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2066337/000143774926035428/0001437749-26-035428-index.htm"
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
     },
     {
       "time": "",
@@ -586,6 +612,20 @@
     },
     {
       "time": "",
+      "source": "The Guardian — Technology",
+      "headline": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "summary": "Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort, Amsterdam, where some members climbed a crane, lit flares and tied helium balloons to equipment. Continue reading...",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
+    },
+    {
+      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -633,42 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "ABP / Dovecote Park merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
     }
   ]
 }

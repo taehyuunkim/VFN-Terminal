@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T17:56:53.965499+00:00",
+  "updated_at": "2026-11-06T22:12:29.355953+00:00",
   "items": [
     {
       "time": "",
@@ -49,18 +49,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "Competition Bureau Canada",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
-      "event_type": "Filing",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2066337/000143774926035428/0001437749-26-035428-index.htm"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/bt-slash-talktalk-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Daily Mail and General Trust plc / Telegraph Media Group merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/daily-mail-and-general-trust-plc-slash-telegraph-media-group-merger-inquiry"
     }
   ]
 }
