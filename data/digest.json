@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T02:45:07.494729+00:00",
+  "updated_at": "2026-11-06T17:56:53.961779+00:00",
   "items": [
     {
       "time": "",
@@ -52,67 +52,67 @@
     },
     {
       "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "FDIC",
+      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
+    },
+    {
+      "time": "",
+      "source": "Competition Bureau Canada",
+      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
       "source": "SEC / 8-K",
-      "headline": "8-K - Copley Acquisition Corp (0002045473) (Filer)",
-      "summary": "Filed: 2026-11-05 AccNo: 0001829126-26-012037 Size: 375 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 5.03: Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year Item 5.07: Submission of Matters to a Vote of Security Holders Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "headline": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
+      "summary": "Filed: 2026-11-06 AccNo: 0001437749-26-035428 Size: 1 MB Item 1.01: Entry into a Material Definitive Agreement Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant Item 9.01: Financial Statements and Exhibits",
+      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
       "asset_classes": [
-        "Equity"
+        "Credit"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/2045473/000182912626012037/0001829126-26-012037-index.htm"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "FDIC",
-      "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
-    },
-    {
-      "time": "",
-      "source": "Competition Bureau Canada",
-      "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+      "url": "https://www.sec.gov/Archives/edgar/data/2066337/000143774926035428/0001437749-26-035428-index.htm"
     },
     {
       "time": "",
@@ -151,6 +151,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -247,18 +259,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -467,6 +467,18 @@
     {
       "time": "",
       "source": "European Commission — Mergers",
+      "headline": "Commission approves merger between AkzoNobel and Axalta, subject to conditions",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-merger-between-akzonobel-and-axalta-subject-conditions-2026-11-06_en"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
       "headline": "Commission sends Statement of Objections to KKR for providing incorrect or misleading information during merger investigation",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -499,18 +511,6 @@
       ],
       "importance": "high",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2126"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission fines Kingspan €40 million for providing incorrect and misleading information during merger investigation",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2084"
     },
     {
       "time": "",
@@ -625,6 +625,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Co-operative Group / Southern Co-operative merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -657,18 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Peoplesafe / SoloProtect merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/peoplesafe-slash-soloprotect-merger-inquiry"
     }
   ]
 }

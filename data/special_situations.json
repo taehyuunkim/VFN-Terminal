@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T02:45:07.495691+00:00",
+  "updated_at": "2026-11-06T17:56:53.965499+00:00",
   "items": [
     {
       "time": "",
@@ -29,18 +29,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "8-K - Copley Acquisition Corp (0002045473) (Filer)",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "SEC / 8-K",
-      "url": "https://www.sec.gov/Archives/edgar/data/2045473/000182912626012037/0001829126-26-012037-index.htm"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Revi",
       "event_type": "M&A",
       "status": "Live",
@@ -65,6 +53,18 @@
     {
       "time": "",
       "ticker": "",
+      "company": "8-K - CNL Strategic Residential Credit, Inc. (0002066337) (Filer)",
+      "event_type": "Filing",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "SEC / 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/2066337/000143774926035428/0001437749-26-035428-index.htm"
+    },
+    {
+      "time": "",
+      "ticker": "",
       "company": "Premerger Notification Program",
       "event_type": "M&A",
       "status": "Live",
@@ -85,6 +85,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "FTC — Competition",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "nexfibre / Substantial merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -181,18 +193,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/firstcash-slash-ramsdens-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "nexfibre / Substantial merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
