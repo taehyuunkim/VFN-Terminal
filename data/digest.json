@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "updated_at": "2026-11-08T21:16:05.060058+00:00",
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T01:51:51.623544+00:00",
   "items": [
     {
       "time": "",
@@ -64,6 +64,18 @@
     },
     {
       "time": "",
+      "source": "Accesswire",
+      "headline": "Globa Terra Acquisition Corporation Announces Definitive Business Combination Agreement with Nature's Ledger Inc. and Reaffirms November 9 Shareholder Extension Vote",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-definitive-business-co-1248717"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -87,6 +99,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Globa Terra Acquisition Corporation Announces Definitive Business Combination Agreement with Nature's Ledger Inc. and Reaffirms November 9 Shareholder Extension Vote",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-definitive-business-co-1248717"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "ABP / Dovecote Park merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/abp-slash-dovecote-park-merger-inquiry"
     }
   ]
 }
