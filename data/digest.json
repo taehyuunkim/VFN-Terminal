@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated_at": "2026-11-09T01:51:51.623544+00:00",
+  "updated_at": "2026-11-09T21:25:56.313349+00:00",
   "items": [
     {
       "time": "",
@@ -52,27 +52,27 @@
     },
     {
       "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - T3 Defense Inc. (0001787518) (Filer)",
-      "summary": "Filed: 2026-11-06 AccNo: 0001185185-26-005246 Size: 266 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 3.02: Unregistered Sales of Equity Securities Item 9.01: Financial Statements and Exhibits",
+      "source": "NYT — Business",
+      "headline": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526005246/0001185185-26-005246-index.htm"
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html"
     },
     {
       "time": "",
-      "source": "Accesswire",
-      "headline": "Globa Terra Acquisition Corporation Announces Definitive Business Combination Agreement with Nature's Ledger Inc. and Reaffirms November 9 Shareholder Extension Vote",
-      "summary": "Open the linked source for the full report.",
+      "source": "PR Newswire — General Business",
+      "headline": "Securitize to Acquire River One, Connecting Stablecoin Capital to the $6 Trillion Asset-Backed Finance Market",
+      "summary": "Acquisition will add institutional warehouse financing capabilities to Securitize's tokenization infrastructure, creating new opportunities to finance real-world assets MIAMI, Nov. 9, 2026 /PRNewswire/ -- Securitize Corp. (NYSE: SECZ), the leading platform for tokenized assets, today...",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-definitive-business-co-1248717"
+      "url": "https://www.prnewswire.com/news-releases/securitize-to-acquire-river-one-connecting-stablecoin-capital-to-the-6-trillion-asset-backed-finance-market-302933804.html"
     },
     {
       "time": "",
@@ -102,15 +102,27 @@
     },
     {
       "time": "",
-      "source": "Accesswire",
-      "headline": "Globa Terra Acquisition Corporation Announces Definitive Business Combination Agreement with Nature's Ledger Inc. and Reaffirms November 9 Shareholder Extension Vote",
-      "summary": "Open the linked source for the full report.",
+      "source": "NYT — Business",
+      "headline": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
       "asset_classes": [
         "Equity"
       ],
       "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/globa-terra-acquisition-corporation-announces-definitive-business-co-1248717"
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Securitize to Acquire River One, Connecting Stablecoin Capital to the $6 Trillion Asset-Backed Finance Market",
+      "summary": "Acquisition will add institutional warehouse financing capabilities to Securitize's tokenization infrastructure, creating new opportunities to finance real-world assets MIAMI, Nov. 9, 2026 /PRNewswire/ -- Securitize Corp. (NYSE: SECZ), the leading platform for tokenized assets, today...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/securitize-to-acquire-river-one-connecting-stablecoin-capital-to-the-6-trillion-asset-backed-finance-market-302933804.html"
     },
     {
       "time": "",
@@ -657,18 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
     }
   ]
 }
