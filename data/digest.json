@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T04:16:16.619624+00:00",
+  "updated_at": "2026-11-10T18:40:23.452193+00:00",
   "items": [
     {
       "time": "",
@@ -49,18 +49,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "SEC / 8-K",
-      "headline": "8-K - Reliance Global Group, Inc. (0001812727) (Filer)",
-      "summary": "Filed: 2026-11-09 AccNo: 0001493152-26-050810 Size: 676 KB Item 1.01: Entry into a Material Definitive Agreement Item 2.01: Completion of Acquisition or Disposition of Assets Item 7.01: Regulation FD Disclosure Item 8.01: Other Events Item 9.01: Financial Statements and Exhibits",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226050810/0001493152-26-050810-index.htm"
     },
     {
       "time": "",
@@ -154,6 +142,18 @@
     },
     {
       "time": "",
+      "source": "NYT — Business",
+      "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+      "summary": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html"
+    },
+    {
+      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -193,18 +193,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Co-operative Group / Southern Co-operative merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -213,6 +201,18 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     },
     {
       "time": "",
@@ -638,6 +638,18 @@
     },
     {
       "time": "",
+      "source": "NYT — Business",
+      "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+      "summary": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+      "investment_takeaway": "Macro read: translate the release into the growth/inflation/discount-rate path, then identify sectors or capital structures most sensitive to the change.",
+      "asset_classes": [
+        "Macro"
+      ],
+      "importance": "high",
+      "url": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html"
+    },
+    {
+      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -661,18 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
-    },
-    {
-      "time": "",
-      "source": "FTC — Competition",
-      "headline": "Submit Merger/Antitrust Comment",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
     }
   ]
 }
