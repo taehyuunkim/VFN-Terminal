@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T00:45:47.767900+00:00",
+  "updated_at": "2026-11-10T04:16:16.619624+00:00",
   "items": [
     {
       "time": "",
@@ -76,18 +76,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Craveworthy Brands Signs Definitive Agreement to Acquire New England Authentic Eats LLC, Accelerating Wing It On! Expansion",
-      "summary": "Planned rollout at Papa Gino's Pizzeria expected to triple Wing It On!'s footprint in region, pairing New England pizza heritage with a platform built for restaurant growth BOSTON, Nov. 9, 2026 /PRNewswire/ -- An affiliate of Craveworthy Brands (\"Craveworthy\"), the multi-brand restaurant...",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/craveworthy-brands-signs-definitive-agreement-to-acquire-new-england-authentic-eats-llc-accelerating-wing-it-on-expansion-302933955.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -126,18 +114,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Craveworthy Brands Signs Definitive Agreement to Acquire New England Authentic Eats LLC, Accelerating Wing It On! Expansion",
-      "summary": "Planned rollout at Papa Gino's Pizzeria expected to triple Wing It On!'s footprint in region, pairing New England pizza heritage with a platform built for restaurant growth BOSTON, Nov. 9, 2026 /PRNewswire/ -- An affiliate of Craveworthy Brands (\"Craveworthy\"), the multi-brand restaurant...",
-      "investment_takeaway": "Investor read: identify the first-order change to earnings, balance-sheet risk, industry structure, catalyst timing or discount rate before assessing the market reaction.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/craveworthy-brands-signs-definitive-agreement-to-acquire-new-england-authentic-eats-llc-accelerating-wing-it-on-expansion-302933955.html"
-    },
-    {
-      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -161,6 +137,20 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Technology",
+      "headline": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff plan announced in Australia in three weeks, after restructuring moves flagged by the design company Canva and National Australia Bank . Continue reading...",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
     },
     {
       "time": "",
@@ -631,6 +621,20 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/pre-merger-competition-bureau-notification-threshold-to-remain-at-93m-in-2026.html"
+    },
+    {
+      "time": "",
+      "source": "The Guardian — Technology",
+      "headline": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff plan announced in Australia in three weeks, after restructuring moves flagged by the design company Canva and National Australia Bank . Continue reading...",
+      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
+      "asset_classes": [
+        "Macro",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
     },
     {
       "time": "",
