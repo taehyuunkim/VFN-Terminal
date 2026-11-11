@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated_at": "2026-11-11T02:07:32.754395+00:00",
+  "updated_at": "2026-11-11T18:40:47.447597+00:00",
   "items": [
     {
       "time": "",
@@ -52,7 +52,7 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
+      "source": "NYT — Technology",
       "headline": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
       "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -90,7 +90,7 @@
     },
     {
       "time": "",
-      "source": "NYT — Business",
+      "source": "NYT — Technology",
       "headline": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
       "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -125,20 +125,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "The Guardian — Technology",
-      "headline": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff plan announced in Australia in three weeks, after restructuring moves flagged by the design company Canva and National Australia Bank . Continue reading...",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
     },
     {
       "time": "",
@@ -189,6 +175,42 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Pilgrim’s / Walkers Deli & Sausage Co merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/pilgrims-slash-walkers-deli-and-sausage-co-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "AkzoNobel / Axalta merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/akzonobel-slash-axalta-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "McCormick / Unilever merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
     },
     {
       "time": "",
@@ -433,18 +455,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "McCormick / Unilever merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Welltower / multiple care homes merger inquiries",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -465,30 +475,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/seras-slash-enva-dedicated-waste-wood-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Danone / Huel merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/danone-slash-huel-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Schlumberger / ChampionX merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/schlumberger-slash-championx-merger-inquiry"
     },
     {
       "time": "",
@@ -624,20 +610,6 @@
     },
     {
       "time": "",
-      "source": "The Guardian — Technology",
-      "headline": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
-      "summary": "Australian carrier announces agreement with Accenture amid ‘unprecedented’ technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff plan announced in Australia in three weeks, after restructuring moves flagged by the design company Canva and National Australia Bank . Continue reading...",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Macro",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
-    },
-    {
-      "time": "",
       "source": "NYT — Business",
       "headline": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
       "summary": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
@@ -673,6 +645,30 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/premerger-notification-program"
+    },
+    {
+      "time": "",
+      "source": "FTC — Competition",
+      "headline": "Submit Merger/Antitrust Comment",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Pilgrim’s / Walkers Deli & Sausage Co merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/pilgrims-slash-walkers-deli-and-sausage-co-merger-inquiry"
     }
   ]
 }
