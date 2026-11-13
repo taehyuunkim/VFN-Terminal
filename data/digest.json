@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "updated_at": "2026-11-12T22:48:04.302507+00:00",
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T02:50:29.252753+00:00",
   "items": [
     {
       "time": "",
@@ -25,6 +25,30 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Rain Enhancement Technologies and Tensor Networks Enter into Definitive Merger Agreement for Strategic Business Combination",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/rain-enhancement-technologies-and-tensor-networks-enter-into-definitive-1250854"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "Rain Enhancement Technologies and Tensor Networks Enter into Definitive Merger Agreement for Strategic Business Combination",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/electronics-and-engineering/rain-enhancement-technologies-and-tensor-networks-enter-into-definitive-1250854"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/pilgrims-slash-walkers-deli-and-sausage-co-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "AkzoNobel / Axalta merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/akzonobel-slash-axalta-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "McCormick / Unilever merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
     }
   ]
 }
