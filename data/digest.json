@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T02:38:23.784901+00:00",
+  "updated_at": "2026-11-14T17:02:42.147253+00:00",
   "items": [
     {
       "time": "",
@@ -64,6 +64,18 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Advanta To Strengthen Market Presence in Africa with Strategic Acquisition of Hytech",
+      "summary": "LONDON, CAIRO and DUBAI, Nov. 14, 2026 /PRNewswire/ -- Advanta had entered into an agreement on August 15, 2026 to acquire Hytech Egypt USA LLC, the holding company of Misr Hytech Seed International S.A.E. (\"Misr Hytech\" or the \"Company\"), from Helios Investment Partners (\"Helios\") and...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/advanta-to-strengthen-market-presence-in-africa-with-strategic-acquisition-of-hytech-302939525.html"
+    },
+    {
+      "time": "",
       "source": "FDIC",
       "headline": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Reviewing Bank Merger Transactions",
       "summary": "Open the linked source for the full report.",
@@ -87,6 +99,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Advanta To Strengthen Market Presence in Africa with Strategic Acquisition of Hytech",
+      "summary": "LONDON, CAIRO and DUBAI, Nov. 14, 2026 /PRNewswire/ -- Advanta had entered into an agreement on August 15, 2026 to acquire Hytech Egypt USA LLC, the holding company of Misr Hytech Seed International S.A.E. (\"Misr Hytech\" or the \"Company\"), from Helios Investment Partners (\"Helios\") and...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/advanta-to-strengthen-market-presence-in-africa-with-strategic-acquisition-of-hytech-302939525.html"
     },
     {
       "time": "",
@@ -645,30 +669,6 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-sues-block-veterinary-supplies-distributor-covetruss-35-billion-acquisition-rival-mwi"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Pilgrim’s / Walkers Deli & Sausage Co merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/pilgrims-slash-walkers-deli-and-sausage-co-merger-inquiry"
     }
   ]
 }
