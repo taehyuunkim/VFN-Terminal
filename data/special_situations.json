@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated_at": "2026-11-18T03:48:40.096885+00:00",
+  "updated_at": "2026-11-18T19:23:47.286579+00:00",
   "items": [
     {
       "time": "",
@@ -89,18 +89,6 @@
     {
       "time": "",
       "ticker": "",
-      "company": "Mari / ATG Entertainment merger inquiry",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "UK CMA — Mergers",
-      "url": "https://www.gov.uk/cma-cases/mari-slash-atg-entertainment-merger-inquiry"
-    },
-    {
-      "time": "",
-      "ticker": "",
       "company": "nexfibre / Substantial merger inquiry",
       "event_type": "M&A",
       "status": "Live",
@@ -109,6 +97,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Mari / ATG Entertainment merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/mari-slash-atg-entertainment-merger-inquiry"
     },
     {
       "time": "",
