@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24T06:17:52.275392+00:00",
+  "updated_at": "2026-11-24T21:09:48.055167+00:00",
   "items": [
     {
       "time": "",
@@ -37,18 +37,6 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "European Commission — Mergers",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2440"
-    },
-    {
-      "time": "",
-      "ticker": "",
-      "company": "FDIC Board of Directors Approves Proposed Rule to Modernize and Reform the FDIC’s Framework for Revi",
-      "event_type": "M&A",
-      "status": "Live",
-      "signal": "NEW",
-      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
-      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
-      "source": "FDIC",
-      "url": "https://www.fdic.gov/news/press-releases/2026/fdic-board-directors-approves-proposed-rule-modernize-and-reform-fdics"
     },
     {
       "time": "",
@@ -217,6 +205,18 @@
       "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
       "source": "UK CMA — Mergers",
       "url": "https://www.gov.uk/cma-cases/aramark-slash-entier-merger-inquiry"
+    },
+    {
+      "time": "",
+      "ticker": "",
+      "company": "Macquarie Asset Management / Energy Assets Group merger inquiry",
+      "event_type": "M&A",
+      "status": "Live",
+      "signal": "NEW",
+      "why_it_matters": "Potential special-situations signal detected. Verify terms, consideration, financing, approvals and whether this changes standalone or deal-case value.",
+      "next_step": "Open the primary source and identify the next dated catalyst or gating condition.",
+      "source": "UK CMA — Mergers",
+      "url": "https://www.gov.uk/cma-cases/macquarie-asset-management-slash-energy-assets-group-merger-inquiry"
     }
   ]
 }
