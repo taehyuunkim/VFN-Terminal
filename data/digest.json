@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "updated_at": "2026-11-26T04:18:18.412870+00:00",
+  "updated_at": "2026-11-26T20:09:24.801976+00:00",
   "items": [
     {
       "time": "",
@@ -108,6 +108,20 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Acquisition Opportunity AGWEST ENTITIES",
+      "summary": "CALGARY, AB, Nov. 26, 2026 /PRNewswire/ -- On October 13, 2026, the Bank of Montreal (the \"Lender\") obtained an initial order from the Court of King's Bench of Manitoba (the \"Court\"), which commenced proceedings under the Companies' Creditors Arrangement Act (\"CCAA\") for AgWest Ltd.,...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html"
+    },
+    {
+      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -143,6 +157,18 @@
       ],
       "importance": "high",
       "url": "https://www.ftc.gov/enforcement/submit-merger-antitrust-comment"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
     },
     {
       "time": "",
@@ -375,18 +401,6 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
-      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
       "headline": "Vandemoortele / Délifrance merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -566,6 +580,20 @@
     },
     {
       "time": "",
+      "source": "PR Newswire — General Business",
+      "headline": "Acquisition Opportunity AGWEST ENTITIES",
+      "summary": "CALGARY, AB, Nov. 26, 2026 /PRNewswire/ -- On October 13, 2026, the Bank of Montreal (the \"Lender\") obtained an initial order from the Court of King's Bench of Manitoba (the \"Court\"), which commenced proceedings under the Companies' Creditors Arrangement Act (\"CCAA\") for AgWest Ltd.,...",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Credit",
+        "Equity",
+        "Cross-Asset"
+      ],
+      "importance": "high",
+      "url": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html"
+    },
+    {
+      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -605,6 +633,18 @@
     {
       "time": "",
       "source": "UK CMA — Mergers",
+      "headline": "The Brink’s Company / NCR Atleos Corporation merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/the-brinks-company-slash-ncr-atleos-corporation-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
       "headline": "Global / Alight merger inquiry",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -637,42 +677,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Mari / ATG Entertainment merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/mari-slash-atg-entertainment-merger-inquiry"
     }
   ]
 }
