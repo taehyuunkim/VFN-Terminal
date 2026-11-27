@@ -1,57 +1,9 @@
 {
-  "date": "2026-11-26",
-  "updated_at": "2026-11-26T20:09:24.801976+00:00",
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T01:04:48.874499+00:00",
   "items": [
     {
       "time": "",
-      "source": "PR Newswire — M&A",
-      "headline": "Acquisitions, Mergers and Takeovers",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — M&A",
-      "headline": "Acquisitions, Mergers and Takeovers",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — M&A",
-      "headline": "Restructuring & Recapitalization",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — M&A",
-      "headline": "Restructuring & Recapitalization",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Credit read: map liquidity, maturity wall, covenant headroom, collateral and recovery waterfall; determine whether the event changes the fulcrum security.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/restructuring-recapitalization-list/"
-    },
-    {
-      "time": "",
       "source": "European Commission — Mergers",
       "headline": "Commission unconditionally approves UniCredit's acquisition of Commerzbank",
       "summary": "Open the linked source for the full report.",
@@ -105,20 +57,6 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Acquisition Opportunity AGWEST ENTITIES",
-      "summary": "CALGARY, AB, Nov. 26, 2026 /PRNewswire/ -- On October 13, 2026, the Bank of Montreal (the \"Lender\") obtained an initial order from the Court of King's Bench of Manitoba (the \"Court\"), which commenced proceedings under the Companies' Creditors Arrangement Act (\"CCAA\") for AgWest Ltd.,...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html"
     },
     {
       "time": "",
@@ -580,20 +518,6 @@
     },
     {
       "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Acquisition Opportunity AGWEST ENTITIES",
-      "summary": "CALGARY, AB, Nov. 26, 2026 /PRNewswire/ -- On October 13, 2026, the Bank of Montreal (the \"Lender\") obtained an initial order from the Court of King's Bench of Manitoba (the \"Court\"), which commenced proceedings under the Companies' Creditors Arrangement Act (\"CCAA\") for AgWest Ltd.,...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html"
-    },
-    {
-      "time": "",
       "source": "Apollo — The Daily Spark",
       "headline": "Direct Lending: Strong Fundamentals, Shifting Dynamics Credit fundamentals remain strong, but rising interest rates, AI disruption and growing dispersion across sectors are reshaping the direct-lending landscape.",
       "summary": "Open the linked source for the full report.",
@@ -677,6 +601,78 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Mari / ATG Entertainment merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/mari-slash-atg-entertainment-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Pilgrim’s / Walkers Deli & Sausage Co merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/pilgrims-slash-walkers-deli-and-sausage-co-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Co-operative Group / Southern Co-operative merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/co-operative-group-slash-southern-co-operative-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "NRG Fleet Services / Specialist Fleet Services merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nrg-fleet-services-slash-specialist-fleet-services-merger-inquiry"
     }
   ]
 }
