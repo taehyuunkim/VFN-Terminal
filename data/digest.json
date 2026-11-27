@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T04:27:03.547294+00:00",
+  "updated_at": "2026-11-27T19:57:12.512404+00:00",
   "items": [
     {
       "time": "",
@@ -80,6 +80,18 @@
     },
     {
       "time": "",
+      "source": "Accesswire",
+      "headline": "D. Boral Capital Served as Capital Markets Advisor for Black Hawk Acquisition Corporation Which Has Completed its Business Combination with Vesicor Therapeutics",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-served-as-capital-markets-advisor-for-black-hawk-ac-1404994"
+    },
+    {
+      "time": "",
       "source": "Competition Bureau Canada",
       "headline": "Competition Bureau obtains a court order to advance investigation into Keyera’s proposed acquisition in oil and gas industry",
       "summary": "Open the linked source for the full report.",
@@ -91,6 +103,18 @@
       ],
       "importance": "high",
       "url": "https://www.canada.ca/en/competition-bureau/news/2026/04/competition-bureau-obtains-a-court-order-to-advance-investigation-into-keyeras-proposed-acquisition-in-oil-and-gas-industry.html"
+    },
+    {
+      "time": "",
+      "source": "Accesswire",
+      "headline": "D. Boral Capital Served as Capital Markets Advisor for Black Hawk Acquisition Corporation Which Has Completed its Business Combination with Vesicor Therapeutics",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/d.-boral-capital-served-as-capital-markets-advisor-for-black-hawk-ac-1404994"
     },
     {
       "time": "",
@@ -459,6 +483,18 @@
     {
       "time": "",
       "source": "European Commission — Mergers",
+      "headline": "Commission unconditionally approves Deutsche Börse's acquisition of Allfunds",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2592"
+    },
+    {
+      "time": "",
+      "source": "European Commission — Mergers",
       "headline": "Commission approves merger between AkzoNobel and Axalta, subject to conditions",
       "summary": "Open the linked source for the full report.",
       "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
@@ -479,18 +515,6 @@
       ],
       "importance": "high",
       "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2178"
-    },
-    {
-      "time": "",
-      "source": "European Commission — Mergers",
-      "headline": "Commission approves Kimberly-Clark's acquisition of Kenvue, subject to conditions",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2137"
     },
     {
       "time": "",
@@ -649,30 +673,6 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
-    },
-    {
-      "time": "",
-      "source": "UK CMA — Mergers",
-      "headline": "nexfibre / Substantial merger inquiry",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Equity"
-      ],
-      "importance": "high",
-      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
