@@ -1,21 +1,7 @@
 {
   "date": "2026-11-28",
-  "updated_at": "2026-11-28T04:08:31.714373+00:00",
+  "updated_at": "2026-11-28T18:54:38.343649+00:00",
   "items": [
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
-      "summary": "The proposed acquisition would deepen business banking expertise and expand Peak's reach into Arizona and New Mexico EUGENE, Ore. and LACEY, Wash. and SCOTTSDALE, Ariz., Nov. 27, 2026 /PRNewswire/ -- Peak Credit Union announced today that it has entered into a definitive agreement to...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html"
-    },
     {
       "time": "",
       "source": "PR Newswire — M&A",
@@ -27,20 +13,6 @@
       ],
       "importance": "high",
       "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/acquisitions-mergers-and-takeovers-list/"
-    },
-    {
-      "time": "",
-      "source": "PR Newswire — General Business",
-      "headline": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
-      "summary": "The proposed acquisition would deepen business banking expertise and expand Peak's reach into Arizona and New Mexico EUGENE, Ore. and LACEY, Wash. and SCOTTSDALE, Ariz., Nov. 27, 2026 /PRNewswire/ -- Peak Credit Union announced today that it has entered into a definitive agreement to...",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html"
     },
     {
       "time": "",
@@ -147,20 +119,6 @@
       ],
       "importance": "high",
       "url": "https://www.apollo.com/wealth/insights-news/insights/podcast/the-allocation/2026/10/direct-lending-strong-fundamentals-shifting-dynamics"
-    },
-    {
-      "time": "",
-      "source": "Accesswire",
-      "headline": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/southwest-heritage-bank-announces-acquisition-agreement-with-peak-cr-1415658"
     },
     {
       "time": "",
@@ -622,20 +580,6 @@
     },
     {
       "time": "",
-      "source": "Accesswire",
-      "headline": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union",
-      "summary": "Open the linked source for the full report.",
-      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
-      "asset_classes": [
-        "Credit",
-        "Equity",
-        "Cross-Asset"
-      ],
-      "importance": "high",
-      "url": "https://www.accessnewswire.com/newsroom/en/banking-and-financial-services/southwest-heritage-bank-announces-acquisition-agreement-with-peak-cr-1415658"
-    },
-    {
-      "time": "",
       "source": "FTC — Competition",
       "headline": "Premerger Notification Program",
       "summary": "Open the linked source for the full report.",
@@ -681,6 +625,54 @@
       ],
       "importance": "high",
       "url": "https://www.gov.uk/cma-cases/global-slash-alight-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "AkzoNobel / Axalta merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/akzonobel-slash-axalta-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "McCormick / Unilever merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/mccormick-slash-unilever-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "Vivisol / Air Liquide (home oxygen services business) merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/vivisol-slash-air-liquide-home-oxygen-services-business-merger-inquiry"
+    },
+    {
+      "time": "",
+      "source": "UK CMA — Mergers",
+      "headline": "nexfibre / Substantial merger inquiry",
+      "summary": "Open the linked source for the full report.",
+      "investment_takeaway": "Event-driven read: verify consideration, financing, vote requirements, regulatory conditions, termination rights and the next dated closing milestone.",
+      "asset_classes": [
+        "Equity"
+      ],
+      "importance": "high",
+      "url": "https://www.gov.uk/cma-cases/nexfibre-slash-substantial-merger-inquiry"
     }
   ]
 }
